@@ -1,0 +1,834 @@
+<yml_catalog date="2026-03-03 10:00">
+    <shop>
+	    <name>Товарный фид Школы карьерного менеджмента Icareer</name>
+	    <company>Школа карьерного менеджмента</company>
+	    <url>https://icareer.ru</url>
+    	<currencies>
+	    	<currency id="RUB" rate="1"/>
+	    	<currency id="USD" rate="1"/>
+	    	<currency id="EUR" rate="1"/>
+    	</currencies>
+	    <offers>
+	    	<offer id="1" available="true">
+			    <name>Карьерный консультант</name>
+			    <url>https://icareer.ru/cources/career-management-online?utm_source=habr&utm_medium=cpl&utm_campaign=kk37</url>
+
+			    <price>150000</price>
+
+			    <oldprice>150000</oldprice>
+
+			    <currencyId>RUB</currencyId>
+
+			    <specialization>HR и рекрутинг</specialization>
+
+			    <param name="Дата начала">По факту набора потока</param>
+
+
+		    	<duration unit="month">5</duration>
+
+
+		    	<skills>
+			    	<skill id="1">Обучение и развитие персонала</skill>
+			    	<skill id="2">Карьерное консультирование</skill>
+			    	<skill id="3">Коучинг</skill>
+			    	<skill id="4">HR-стратегия</skill>
+			    	<skill id="5">Корпоративная психология</skill>
+			    	<skill id="6">Личностный рост</skill>
+			    	<skill id="7">Развитие карьеры</skill>
+			    	<skill id="8">Наставничество</skill>
+		    	</skills>
+		    	<description>Профессиональная онлайн-программа подготовки карьерных консультантов. Курс сочетает теорию и практику: обучение включает видеоуроки, вебинары, демосессии с реальными клиентами и работу с кейсами. Участники изучают цикл карьерного консультирования, методы диагностики карьерных ресурсов клиента и инструменты построения карьерной стратегии.</description>
+
+		    	<param name="Оплата в рассрочку" unit="месяц">10</param>
+
+		    	<param name="Формат занятий">online</param>
+
+		    	<param name="Требуемая квалификация">Intern</param>
+
+		    	<param name="Получаемая квалификация">Middle</param>
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+	    	<offer id="2" available="true">
+			    <name>Профориентация и карьерное самоопределение взрослых</name>
+			    <url>https://icareer.ru/cources/proforientacia_adult?utm_source=habr&utm_medium=cpl&utm_campaign=pov23</url>
+
+
+			    <price>96000</price>
+
+
+			    <oldprice>120000</oldprice>
+
+
+			    <currencyId>RUB</currencyId>
+
+
+			    <specialization>Психология</specialization>
+
+
+			    <param name="Дата начала">2026-04-19</param>
+
+
+		    	<duration unit="month">4</duration>
+
+
+		    	<skills>
+			    	<skill id="1">Поиск талантов</skill>
+			    	<skill id="2">Профориентация</skill>
+			    	<skill id="3">Профориентационная работа</skill>
+			    	<skill id="4">Наставничество</skill>
+			    	<skill id="5">Общая психология</skill>
+			    	<skill id="6">Личная мотивация</skill>
+			    	<skill id="7">Развитие карьеры</skill>
+		    	</skills>
+		    	<description>Вы научитесь системной и последовательной профориентации взрослых. Разберетесь в карьерных трендах и тенденциях. Сможете грамотно построить новый карьерный маршрут и помочь в вопросах профессиональной самореализации.</description>
+
+
+		    	<param name="Оплата в рассрочку" unit="месяц">10</param>
+
+
+		    	<param name="Формат занятий">online</param>
+
+
+		    	<param name="Требуемая квалификация">Intern</param>
+
+
+		    	<param name="Получаемая квалификация">Middle</param>
+
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+	    	<offer id="3" available="true">
+			    <name>Профориентатор Будущего</name>
+			    <url>https://icareer.ru/cources/proforientacia?utm_source=habr&utm_medium=cpl&utm_campaign=pob31</url>
+
+
+			    <price>114750</price>
+
+
+			    <oldprice>135000</oldprice>
+
+
+			    <currencyId>RUB</currencyId>
+
+
+			    <specialization>Психология</specialization>
+
+
+			    <param name="Дата начала">2026-03-28</param>
+
+
+		    	<duration unit="month">4</duration>
+
+
+		    	<skills>
+			    	<skill id="1">Поиск талантов</skill>
+			    	<skill id="2">Профориентационная работа</skill>
+			    	<skill id="3">Психология подростков</skill>
+			    	<skill id="4">Профориентация</skill>
+			    	<skill id="5">Развитие карьеры</skill>
+		    	</skills>
+		    	<description>Вы научитесь системной профориентации подростков. Разберетесь в карьерных трендах и в мире профессий. Поможете ребенку выбрать ВУЗ и сможете грамотно выстроить образовательный маршрут для подростка – выпускника школы.</description>
+
+
+		    	<param name="Оплата в рассрочку" unit="месяц">10</param>
+
+
+		    	<param name="Формат занятий">online</param>
+
+
+		    	<param name="Требуемая квалификация">Intern</param>
+
+
+		    	<param name="Получаемая квалификация">Middle</param>
+
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+	    	<offer id="4" available="true">
+			    <name>Карьерный коуч по стандартам ICF</name>
+			    <url>https://icareer.ru/cources/career_coaching?utm_source=habr&utm_medium=cpc&utm_campaign=kch24</url>
+
+
+			    <price>128000</price>
+
+
+			    <oldprice>160000</oldprice>
+
+
+			    <currencyId>RUB</currencyId>
+
+
+			    <specialization>HR и рекрутинг</specialization>
+
+
+			    <param name="Дата начала">2026-04-25</param>
+
+
+		    	<duration unit="month">4</duration>
+
+
+		    	<skills>
+			    	<skill id="1">Карьерное консультирование</skill>
+			    	<skill id="2">Коучинг</skill>
+			    	<skill id="3">HR-бренд</skill>
+			    	<skill id="4">HR-стратегия</skill>
+			    	<skill id="5">ICF</skill>
+			    	<skill id="6">Корпоративная психология</skill>
+			    	<skill id="7">Психология общения</skill>
+			    	<skill id="8">Soft Skills</skill>
+			    	<skill id="9">Личностный рост</skill>
+			    	<skill id="10">Развитие карьеры</skill>
+			    	<skill id="11">Лайф-коучинг</skill>
+			    	<skill id="12">Наставничество</skill>
+		    	</skills>
+		    	<description>Профессия карьерного коуча позволяет вам получить свободу и реализацию, дает возможность менять жизни других людей и делать их карьеру более эффективной.</description>
+
+
+		    	<param name="Оплата в рассрочку" unit="месяц">10</param>
+
+
+		    	<param name="Формат занятий">online</param>
+
+
+		    	<param name="Требуемая квалификация">Junior</param>
+
+
+		    	<param name="Получаемая квалификация">Senior</param>
+
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+	    	<offer id="5" available="true">
+			    <name>Управление карьерой сотрудников</name>
+			    <url>https://icareer.ru/cources/employee-career-management?utm_source=habr&utm_medium=cpc&utm_campaign=uks8</url>
+
+
+			    <price>127500</price>
+
+
+			    <oldprice>150000</oldprice>
+
+
+			    <currencyId>RUB</currencyId>
+
+
+			    <specialization>HR и рекрутинг</specialization>
+
+
+			    <param name="Дата начала">2026-03-14</param>
+
+
+		    	<duration unit="month">5</duration>
+
+
+		    	<skills>
+			    	<skill id="1">Управление HR</skill>
+			    	<skill id="2">Обучение и развитие персонала</skill>
+			    	<skill id="3">Корпоративная психология</skill>
+			    	<skill id="4">HR-стратегия</skill>
+			    	<skill id="5">Soft Skills</skill>
+			    	<skill id="6">Личностный рост</skill>
+			    	<skill id="7">Лидерство</skill>
+			    	<skill id="8">Личная мотивация</skill>
+		    	</skills>
+		    	<description>Программа знакомит с современными практиками карьерного развития внутри компаний: от оценки потенциала сотрудников до построения карьерных треков и программ развития. Участники учатся проектировать и внедрять HR-проекты по управлению карьерой, повышать вовлечённость и удержание сотрудников, а также выстраивать системную карьерную политику в организации.</description>
+
+
+		    	<param name="Оплата в рассрочку" unit="месяц">10</param>
+
+
+		    	<param name="Формат занятий">online</param>
+
+
+		    	<param name="Требуемая квалификация">Junior</param>
+
+
+		    	<param name="Получаемая квалификация">Senior</param>
+
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+	    	<offer id="6" available="true">
+			    <name>Психология для карьерных специалистов</name>
+			    <url>https://icareer.ru/psychology-for-career-specialists?utm_source=habr&utm_medium=cpl&utm_campaign=pkk7</url>
+
+
+			    <price>90000</price>
+
+
+			    <oldprice>90000</oldprice>
+
+
+			    <currencyId>RUB</currencyId>
+
+
+			    <specialization>Психология</specialization>
+
+
+			    <param name="Дата начала">2026-06-13</param>
+
+
+		    	<duration unit="month">5</duration>
+
+
+		    	<skills>
+			    	<skill id="1">Кризисный психолог</skill>
+			    	<skill id="2">Общая психология</skill>
+			    	<skill id="3">Корпоративная психология</skill>
+			    	<skill id="4">Психология общения</skill>
+			    	<skill id="5">Soft Skills</skill>
+			    	<skill id="6">Личностный рост</skill>
+			    	<skill id="7">Личная мотивация</skill>
+		    	</skills>
+		    	<description>Онлайн-курс для карьерных консультантов, коучей и HR-специалистов, который помогает глубже понимать психологию клиентов и работать со сложными карьерными запросами. Программа обучает распознавать страхи, внутренние барьеры и мотивацию человека, а также использовать психологические инструменты в карьерном консультировании. Участники учатся поддерживать клиентов в период карьерных изменений и профессиональных кризисов.</description>
+
+
+		    	<param name="Оплата в рассрочку" unit="месяц">10</param>
+
+
+		    	<param name="Формат занятий">online</param>
+
+
+		    	<param name="Требуемая квалификация">Junior</param>
+
+
+		    	<param name="Получаемая квалификация">Senior</param>
+
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+	    	<offer id="7" available="true">
+			    <name>Игровые практики в работе с подростками</name>
+			    <url>https://icareer.ru/igropractic?utm_source=habr&utm_medium=cpl&utm_campaign=ipp</url>
+
+
+			    <price>28900</price>
+
+
+			    <oldprice>60000</oldprice>
+
+
+			    <currencyId>RUB</currencyId>
+
+
+			    <specialization>Педагогика</specialization>
+
+
+			    <param name="Дата начала">После покупки</param>
+
+
+		    	<duration unit="month">2</duration>
+
+
+		    	<skills>
+			    	<skill id="1">Игропрактика</skill>
+			    	<skill id="2">Психология подростков</skill>
+			    	<skill id="3">Наставничество</skill>
+		    	</skills>
+		    	<description>Программа обучает разработке и проведению профориентационных игр и тренингов, которые помогают подросткам лучше понять свои интересы, способности и карьерные направления. Участники изучают основы игропрактики, принципы создания игр и получают алгоритм разработки игровых решений для работы с подростками.</description>
+
+
+		    	<param name="Оплата в рассрочку" unit="месяц">нет</param>
+
+
+		    	<param name="Формат занятий">online</param>
+
+
+		    	<param name="Требуемая квалификация">Junior</param>
+
+
+		    	<param name="Получаемая квалификация">Middle</param>
+
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+	    	<offer id="8" available="true">
+			    <name>Карьерный консультант в IT</name>
+			    <url>https://icareer.ru/itconsultant?utm_source=habr&utm_medium=cpl&utm_campaign=kkit</url>
+
+
+			    <price>38900</price>
+
+
+			    <oldprice>38900</oldprice>
+
+
+			    <currencyId>RUB</currencyId>
+
+
+			    <specialization>HR и рекрутинг</specialization>
+
+
+			    <param name="Дата начала">После покупки</param>
+
+
+		    	<duration unit="month">2</duration>
+
+
+		    	<skills>
+			    	<skill id="1">IT-рекрутинг</skill>
+			    	<skill id="2">Оценка hard skills</skill>
+			    	<skill id="3">Оценка soft skills</skill>
+			    	<skill id="4">Развитие карьеры</skill>
+			    	<skill id="5">Наставничество</skill>
+			    	<skill id="6">Составление резюме</skill>
+		    	</skills>
+		    	<description>Программа обучает сопровождать клиентов в вопросах входа в IT, карьерного роста, смены роли и профессионального выгорания. Участники изучают структуру карьерного консультирования для IT-специалистов, разбираются в ролях, грейдах и карьерных треках индустрии и получают инструменты для работы с карьерными запросами в одной из самых востребованных отраслей.</description>
+
+
+		    	<param name="Оплата в рассрочку" unit="месяц">нет</param>
+
+
+		    	<param name="Формат занятий">online</param>
+
+
+		    	<param name="Требуемая квалификация">Junior</param>
+
+
+		    	<param name="Получаемая квалификация">Middle</param>
+
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+	    	<offer id="9" available="true">
+			    <name>Поиск работы с AI</name>
+			    <url>https://icareer.ru/findingajobwithai?utm_source=habr&utm_medium=cpl&utm_campaign=prai</url>
+
+
+			    <price>19900</price>
+
+
+			    <oldprice>19900</oldprice>
+
+
+			    <currencyId>RUB</currencyId>
+
+
+			    <specialization>HR и рекрутинг</specialization>
+
+
+			    <param name="Дата начала">После покупки</param>
+
+
+		    	<duration unit="month">2</duration>
+
+
+		    	<skills>
+			    	<skill id="1">IT-рекрутинг</skill>
+			    	<skill id="2">Рекрутинг</skill>
+			    	<skill id="3">Подбор специалистов</skill>
+			    	<skill id="4">Развитие карьеры</skill>
+			    	<skill id="5">Составление резюме</skill>
+		    	</skills>
+		    	<description>Онлайн-курс о том, как использовать инструменты искусственного интеллекта на всех этапах поиска работы — от подготовки резюме до успешной адаптации в первые 90 дней на новом месте. Участники изучают стратегию современного джобхантинга, учатся создавать резюме и сопроводительные письма с помощью ИИ, анализировать рынок труда, готовиться к собеседованиям и использовать AI-ассистентов для более эффективного поиска вакансий.</description>
+
+
+		    	<param name="Оплата в рассрочку" unit="месяц">нет</param>
+
+
+		    	<param name="Формат занятий">online</param>
+
+
+		    	<param name="Требуемая квалификация">Junior</param>
+
+
+		    	<param name="Получаемая квалификация">Middle</param>
+
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+	    	<offer id="10" available="true">
+			    <name>AI в работе карьерного специалиста</name>
+			    <url>https://icareer.ru/kkinai?utm_source=habr&utm_medium=cpl&utm_campaign=aiks</url>
+
+
+			    <price>47200</price>
+
+
+			    <oldprice>59000</oldprice>
+
+
+			    <currencyId>RUB</currencyId>
+
+
+			    <specialization>Саморазвитие и soft skills</specialization>
+
+
+			    <param name="Дата начала">После покупки</param>
+
+
+		    	<duration unit="month">2</duration>
+
+
+		    	<skills>
+			    	<skill id="1">HR аналитика</skill>
+			    	<skill id="2">Карьерное консультирование</skill>
+			    	<skill id="3">Soft Skills</skill>
+			    	<skill id="4">Личностный рост</skill>
+			    	<skill id="5">Наставничество</skill>
+			    	<skill id="6">Развитие карьеры</skill>
+		    	</skills>
+		    	<description>Онлайн-курс для карьерных консультантов, посвящённый применению искусственного интеллекта в профессиональной практике. Программа показывает, как использовать AI-инструменты для анализа карьерных запросов клиентов, подготовки материалов, работы с резюме, исследованием рынка труда и ускорения консультационного процесса. Участники получают практические навыки интеграции ИИ-инструментов в работу карьерного специалиста, что помогает повысить эффективность и качество карьерных консультаций.</description>
+
+
+		    	<param name="Оплата в рассрочку" unit="месяц">нет</param>
+
+
+		    	<param name="Формат занятий">online</param>
+
+
+		    	<param name="Требуемая квалификация">Junior</param>
+
+
+		    	<param name="Получаемая квалификация">Middle</param>
+
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+	    	<offer id="11" available="true">
+			    <name>Подготовка клиента к интервью</name>
+			    <url>https://icareer.ru/preparing-for-the-interview?utm_source=habr&utm_medium=cpl&utm_campaign=pki</url>
+
+
+			    <price>17900</price>
+
+
+			    <oldprice>17900</oldprice>
+
+
+			    <currencyId>RUB</currencyId>
+
+
+			    <specialization>HR и рекрутинг</specialization>
+
+
+			    <param name="Дата начала">После покупки</param>
+
+
+		    	<duration unit="month">1</duration>
+
+
+		    	<skills>
+			    	<skill id="1">Составление резюме</skill>
+			    	<skill id="2">Оценка hard skills</skill>
+			    	<skill id="3">Оценка soft skills</skill>
+			    	<skill id="3">Корпоративная психология</skill>
+			    	<skill id="3">Проведение интервью</skill>
+		    	</skills>
+		    	<description>Вы сможете упаковать процесс подготовки ваших клиентов к интервью в услугу и организовать эффективную работу с кандидатом по алгоритму, с учетом нюансов разных клиентских ситуаций.</description>
+
+
+		    	<param name="Оплата в рассрочку" unit="месяц">нет</param>
+
+
+		    	<param name="Формат занятий">online</param>
+
+
+		    	<param name="Требуемая квалификация">Junior</param>
+
+
+		    	<param name="Получаемая квалификация">Middle</param>
+
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+	    	<offer id="12" available="true">
+			    <name>Топ-менеджеры</name>
+			    <url>https://icareer.ru/top-management?utm_source=habr&utm_medium=cpl&utm_campaign=tm</url>
+
+
+			    <price>17900</price>
+
+
+			    <oldprice>17900</oldprice>
+
+
+			    <currencyId>RUB</currencyId>
+
+
+			    <specialization>Психология</specialization>
+
+
+			    <param name="Дата начала">После покупки</param>
+
+
+		    	<duration unit="month">1</duration>
+
+
+		    	<skills>
+			    	<skill id="1">Карьерное консультирование</skill>
+			    	<skill id="2">Коучинг</skill>
+			    	<skill id="3">Кризисный психолог</skill>
+			    	<skill id="2">Лидерство</skill>
+			    	<skill id="2">Развитие карьеры</skill>
+			    	<skill id="2">Личностный рост</skill>
+		    	</skills>
+		    	<description>Программа обучает особенностям консультирования руководителей: работе с запросами о карьерной стратегии, повышении дохода, поиске новых управленческих позиций, отношениях с командой и акционерами. Участники получают чек-листы оценки компетенций топ-менеджеров и инструменты для работы с карьерными задачами руководителей высокого уровня.</description>
+
+
+		    	<param name="Оплата в рассрочку" unit="месяц">нет</param>
+
+
+		    	<param name="Формат занятий">online</param>
+
+
+		    	<param name="Требуемая квалификация">Junior</param>
+
+
+		    	<param name="Получаемая квалификация">Middle</param>
+
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+	    	<offer id="13" available="true">
+			    <name>Введение в Профориентацию и карьерное самоопределение взрослых</name>
+			    <url>https://icareer.ru/freepov?utm_source=habr&utm_medium=cpl&utm_campaign=vpov</url>
+
+
+			    <price>0</price>
+
+
+			    <oldprice>0</oldprice>
+
+
+			    <currencyId>RUB</currencyId>
+
+
+			    <specialization>Психология</specialization>
+
+
+			    <param name="Дата начала">После регистрации</param>
+
+
+		    	<duration unit="day">1</duration>
+
+
+		    	<skills>
+			    	<skill id="1">Поиск талантов</skill>
+			    	<skill id="2">Профориентация</skill>
+			    	<skill id="3">Профориентационная работа</skill>
+			    	<skill id="4">Наставничество</skill>
+			    	<skill id="5">Общая психология</skill>
+			    	<skill id="6">Личная мотивация</skill>
+			    	<skill id="7">Развитие карьеры</skill>
+		    	</skills>
+		    	<description>Бесплатный онлайн-курс «Введение в профориентацию и карьерное самоопределение взрослых», который знакомит с основами профориентации взрослых клиентов. Программа помогает понять, как сопровождать людей в период карьерных изменений, поиска нового направления и переосмысления профессионального пути. Участники получают доступ к занятиям сразу после регистрации и изучают базовые инструменты работы с запросами о смене профессии, поиске себя и карьерных переходах.</description>
+
+
+		    	<param name="Оплата в рассрочку" unit="месяц">нет</param>
+
+
+		    	<param name="Формат занятий">online</param>
+
+
+		    	<param name="Требуемая квалификация">Intern</param>
+
+
+		    	<param name="Получаемая квалификация">Junior</param>
+
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+	    	<offer id="14" available="true">
+			    <name>Введение в профессию Карьерный консультант</name>
+			    <url>https://icareer.ru/kkfree?utm_source=habr&utm_medium=cpl&utm_campaign=vkk</url>
+
+
+			    <price>0</price>
+
+
+			    <oldprice>0</oldprice>
+
+
+			    <currencyId>RUB</currencyId>
+
+
+			    <specialization>HR и рекрутинг</specialization>
+
+
+			    <param name="Дата начала">После регистрации</param>
+
+
+		    	<duration unit="day">1</duration>
+
+
+		    	<skills>
+			    	<skill id="1">Обучение и развитие персонала</skill>
+			    	<skill id="2">Карьерное консультирование</skill>
+			    	<skill id="3">Коучинг</skill>
+			    	<skill id="4">HR-стратегия</skill>
+			    	<skill id="5">Корпоративная психология</skill>
+			    	<skill id="6">Личностный рост</skill>
+			    	<skill id="7">Развитие карьеры</skill>
+			    	<skill id="8">Наставничество</skill>
+		    	</skills>
+		    	<description>Бесплатный онлайн-курс «Введение в профессию карьерный консультант», который знакомит с основами карьерного консультирования и помогает понять, как начать путь в этой востребованной профессии. Участники узнают, кто такой карьерный консультант, какие задачи он решает и какие тренды влияют на развитие профессии. Курс включает видеоуроки и дополнительные материалы и доступен сразу после регистрации.</description>
+
+
+		    	<param name="Оплата в рассрочку" unit="месяц">нет</param>
+
+
+		    	<param name="Формат занятий">online</param>
+
+
+		    	<param name="Требуемая квалификация">Intern</param>
+
+
+		    	<param name="Получаемая квалификация">Junior</param>
+
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+	    	<offer id="15" available="true">
+			    <name>Введение в профессию Профориентатор будущего</name>
+			    <url>https://icareer.ru/pobfree?utm_source=habr&utm_medium=cpl&utm_campaign=vpob</url>
+
+
+			    <price>0</price>
+
+
+			    <oldprice>0</oldprice>
+
+
+			    <currencyId>RUB</currencyId>
+
+
+			    <specialization>Психология</specialization>
+
+
+			    <param name="Дата начала">После регистрации</param>
+
+
+		    	<duration unit="day">1</duration>
+
+
+		    	<skills>
+			    	<skill id="1">Поиск талантов</skill>
+			    	<skill id="2">Профориентационная работа</skill>
+			    	<skill id="3">Психология подростков</skill>
+			    	<skill id="4">Профориентация</skill>
+			    	<skill id="5">Развитие карьеры</skill>
+		    	</skills>
+		    	<description>Бесплатный онлайн-курс «Введение в профессию Профориентатор будущего», который знакомит с основами профориентации подростков и помогает понять, как начать путь в этой профессии. Участники узнают, что такое профориентация, кто является клиентами профориентатора и с какими запросами к нему обращаются. Курс включает несколько уроков и доступен сразу после регистрации.</description>
+
+
+		    	<param name="Оплата в рассрочку" unit="месяц">нет</param>
+
+
+		    	<param name="Формат занятий">online</param>
+
+
+		    	<param name="Требуемая квалификация">Intern</param>
+
+
+		    	<param name="Получаемая квалификация">Junior</param>
+
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+	    	<offer id="16" available="true">
+			    <name>Введение в профессию Карьерный коуч</name>
+			    <url>https://icareer.ru/coachfree?utm_source=habr&utm_medium=cpl&utm_campaign=vkkch</url>
+
+
+			    <price>0</price>
+
+
+			    <oldprice>0</oldprice>
+
+
+			    <currencyId>RUB</currencyId>
+
+
+			    <specialization>HR и рекрутинг</specialization>
+
+
+			    <param name="Дата начала">После регистрации</param>
+
+
+		    	<duration unit="day">1</duration>
+
+
+		    	<skills>
+			    	<skill id="1">Карьерное консультирование</skill>
+			    	<skill id="2">Коучинг</skill>
+			    	<skill id="3">HR-бренд</skill>
+			    	<skill id="4">HR-стратегия</skill>
+			    	<skill id="5">ICF</skill>
+			    	<skill id="6">Корпоративная психология</skill>
+			    	<skill id="7">Психология общения</skill>
+			    	<skill id="8">Soft Skills</skill>
+			    	<skill id="9">Личностный рост</skill>
+			    	<skill id="10">Развитие карьеры</skill>
+			    	<skill id="11">Лайф-коучинг</skill>
+			    	<skill id="12">Наставничество</skill>
+		    	</skills>
+		    	<description>Бесплатный онлайн-курс «Введение в профессию карьерный коуч», который знакомит с основами карьерного коучинга и помогает понять специфику этой профессии. Участники узнают, кто такой карьерный коуч, с какими запросами работает и какие компетенции необходимы для работы по стандартам ICF. Курс включает 6 уроков и бонусные материалы и доступен сразу после регистрации.</description>
+
+
+		    	<param name="Оплата в рассрочку" unit="месяц">нет</param>
+
+
+		    	<param name="Формат занятий">online</param>
+
+
+		    	<param name="Требуемая квалификация">Intern</param>
+
+
+		    	<param name="Получаемая квалификация">Junior</param>
+
+
+		    	<param name="Выдаётся сертификат">Да</param>
+
+
+		    	<param name="Помощь с трудоустройством">Нет</param>
+	    	</offer>
+    	</offers>
+    </shop>
+</yml_catalog>
+
