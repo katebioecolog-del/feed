@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<yml_catalog date="2026-03-06T12:00:00+03:00"> 
+    <shop> 
+    <name>Школа карьерного менеджмента</name> 
+    <description>Школа, обучающая карьерному консультированию и современным инструментам карьерного роста.</description> 
+    <url>https://icareer.ru
+     
+    <currencies> 
+    <currency id="RUB" rate="1"/> 
+    <currency id="USD" rate="0.01"/> 
+    <currency id="EUR" rate="0.009"/>
+    </currencies> 
+     
+        <offers> 
+        <offer id="1" available="true">
+        <name>Профориентатор Будущего</name> 
+        <description>Курс по профориентации: методы диагностики, консультации и помощь подросткам в выборе карьеры.</description> 
+        <param name="Уровень курса">С Нуля</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">4 месяца</param>  
+        <oldprice>135000</oldprice> 
+        <price>108000</price> 
+        <discount>20</discount> 
+        <param name="Ежемесячный платеж">10800</param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/cources/proforientacia/?utm_source=careerru&utm_medium=cpc&utm_campaign=pob31&utm_content=proforientacia&utm_term=hh_cpa</param>         
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        <offer id="2" available="true">
+        <name>Профориентация и самоопределение взрослых</name> 
+        <description>Обучение помощи взрослым в выборе карьеры с практикой и инструментами профориентации.</description> 
+        <param name="Уровень курса">С Нуля</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">4 месяца</param>  
+        <oldprice>120000</oldprice> 
+        <price>96000</price> 
+        <discount>20</discount> 
+        <param name="Ежемесячный платеж">9600</param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/cources/proforientacia_adult/?utm_source=careerru&utm_medium=cpc&utm_campaign=pov23&utm_content=proforientacia_adult&utm_term=hh_cpa</param>          
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        <offer id="3" available="true">
+        <name>Карьерный коуч по стандартам ICF</name> 
+        <description>Практический курс карьерного коучинга с супервизиями и живыми сессиями.</description> 
+        <param name="Уровень курса">С Нуля</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">3 месяца</param>  
+        <oldprice>160000</oldprice> 
+        <price>128000</price> 
+        <discount>20</discount> 
+        <param name="Ежемесячный платеж">12800</param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/cources/career_coaching/?utm_source=careerru&utm_medium=cpc&utm_campaign=kch24&utm_content=career_coaching&utm_term=hh_cpa</param>          
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        <offer id="4" available="true">
+        <name>Карьерный консультант</name> 
+        <description>Практические методы карьерного консультирования и работы с клиентами.</description> 
+        <param name="Уровень курса">С Нуля</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">5 месяцев</param>  
+        <oldprice>150000</oldprice> 
+        <price>150000</price> 
+        <discount> </discount> 
+        <param name="Ежемесячный платеж">15000</param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/cources/career-management-online/?utm_source=careerru&utm_medium=cpc&utm_campaign=kk37&utm_content=career-management-online&utm_term=hh_cpa</param>          
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        <offer id="5" available="true">
+        <name>Управление карьерой сотрудников</name> 
+        <description>Стратегии развития карьерных треков сотрудников внутри компании.</description> 
+        <param name="Уровень курса">Продвинутый</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">4 месяца</param>  
+        <oldprice>150000</oldprice> 
+        <price>120000</price> 
+        <discount>20</discount> 
+        <param name="Ежемесячный платеж">12000</param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/cources/employee-career-management/?utm_source=careerru&utm_medium=cpc&utm_campaign=uks8&utm_content=employee-career-management&utm_term=hh_cpa</param>          
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        <offer id="6" available="true">
+        <name>Работа с клиентами 45 +</name> 
+        <description>Помощь в смене профессии и поиске новых карьерных возможностей после 45 лет.</description> 
+        <param name="Уровень курса">С Нуля</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">2 месяца</param>  
+        <oldprice>38900</oldprice> 
+        <price>38900</price> 
+        <discount> </discount> 
+        <param name="Ежемесячный платеж"> </param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/encore-career-45/?utm_source=careerru&utm_medium=cpc&utm_campaign=bis&utm_content=encore-career-45&utm_term=hh_cpa</param>          
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        <offer id="7" available="true">
+        <name>Игровые практики в работе с подростками</name> 
+        <description>Обучение игровым методам в профессиональном развитии и профориентации.</description> 
+        <param name="Уровень курса">С Нуля</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">2 месяца</param>  
+        <oldprice>60000</oldprice> 
+        <price>28900</price> 
+        <discount>51</discount> 
+        <param name="Ежемесячный платеж"> </param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/igropractic/?utm_source=careerru&utm_medium=cpc&utm_campaign=ipp&utm_content=igropractic&utm_term=hh_cpa</param>          
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        <offer id="8" available="true">
+        <name>Карьерный консультант в IT</name> 
+        <description>Подготовка к работе консультантом для IT‑специалистов.</description> 
+        <param name="Уровень курса">С Нуля</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">2 месяца</param>  
+        <oldprice>38900</oldprice> 
+        <price>38900</price> 
+        <discount> </discount> 
+        <param name="Ежемесячный платеж"> </param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/itconsultant/?utm_source=careerru&utm_medium=cpc&utm_campaign=kkit&utm_content=itconsultant&utm_term=hh_cpa</param>          
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        <offer id="9" available="true">
+        <name>Поиск работы с AI</name> 
+        <description>Как использовать искусственный интеллект для поиска работы.</description> 
+        <param name="Уровень курса">С Нуля</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">2 недели</param>  
+        <oldprice>19900</oldprice> 
+        <price>19900</price> 
+        <discount> </discount> 
+        <param name="Ежемесячный платеж"> </param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/findingajobwithai/?utm_source=careerru&utm_medium=cpc&utm_campaign=prai&utm_content=findingajobwithai&utm_term=hh_cpa</param>          
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        <offer id="10" available="true">
+        <name>AI в работе карьерного специалиста</name> 
+        <description>Обучение карьерному консультированию с AI‑инструментами.</description> 
+        <param name="Уровень курса">С Нуля</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">2 месяца</param>  
+        <oldprice>59000</oldprice> 
+        <price>47200</price> 
+        <discount>20</discount> 
+        <param name="Ежемесячный платеж"> </param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/kkinai/?utm_source=careerru&utm_medium=cpc&utm_campaign=aiks&utm_content=kkinai&utm_term=hh_cpa</param>          
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        <offer id="11" available="true">
+        <name>Подготовка клиента к интервью</name> 
+        <description>Практические навыки подготовки к успешному собеседованию.</description> 
+        <param name="Уровень курса">С Нуля</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">2 месяца</param>  
+        <oldprice>17900</oldprice> 
+        <price>17900</price> 
+        <discount> </discount> 
+        <param name="Ежемесячный платеж"> </param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/preparing-for-the-interview/?utm_source=careerru&utm_medium=cpc&utm_campaign=pki&utm_content=preparing-for-the-interview&utm_term=hh_cpa</param>          
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        <offer id="12" available="true">
+        <name>Топ-менеджеры</name> 
+        <description>Чек-листы и техники для решения самых частых запросов руководителей.</description> 
+        <param name="Уровень курса">Продвинутый</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">2 месяца</param>  
+        <oldprice>17900</oldprice> 
+        <price>17900</price> 
+        <discount> </discount> 
+        <param name="Ежемесячный платеж"> </param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/top-management/?utm_source=careerru&utm_medium=cpc&utm_campaign=tm&utm_content=top-management&utm_term=hh_cpa</param>          
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        <offer id="13" available="true">
+        <name>Введение в Профориентацию взрослых</name> 
+        <description>Бесплатный курс по основам профориентации взрослых: от выгорания до смены профессии.</description> 
+        <param name="Уровень курса">С Нуля</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">1 день</param>  
+        <oldprice> </oldprice> 
+        <price> </price> 
+        <discount> </discount> 
+        <param name="Ежемесячный платеж"> </param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/freepov/?utm_source=careerru&utm_medium=cpc&utm_campaign=vpov&utm_content=freepov&utm_term=hh_cpa</param>          
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        <offer id="14" available="true">
+        <name>Введение в профессию Карьерный консультант</name> 
+        <description>Основы работы с запросами клиентов и начала пути карьерного консультанта.</description> 
+        <param name="Уровень курса">С Нуля</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">1 день</param>  
+        <oldprice> </oldprice> 
+        <price> </price> 
+        <discount> </discount> 
+        <param name="Ежемесячный платеж"> </param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/kkfree/?utm_source=careerru&utm_medium=cpc&utm_campaign=vkk&utm_content=kkfree&utm_term=hh_cpa</param>          
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        <offer id="15" available="true">
+        <name>Введение в профессию Профориентатор будущего</name> 
+        <description>Основы профориентации подростков и начало профессионального пути.</description> 
+        <param name="Уровень курса">С Нуля</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">1 день</param>  
+        <oldprice> </oldprice> 
+        <price> </price> 
+        <discount> </discount> 
+        <param name="Ежемесячный платеж"> </param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/pobfree/?utm_source=careerru&utm_medium=cpc&utm_campaign=vpob&utm_content=pobfree&utm_term=hh_cpa</param>          
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        <offer id="16" available="true">
+        <name>Введение в профессию Карьерный коуч</name> 
+        <description>Узнайте, как стать карьерным коучем и работать с запросами клиентов.</description> 
+        <param name="Уровень курса">С Нуля</param>  
+        <param name="Формат курса">ONLINE</param>         
+        <param name="Длительность курса">1 день</param>  
+        <oldprice> </oldprice> 
+        <price> </price> 
+        <discount> </discount> 
+        <param name="Ежемесячный платеж"> </param> 
+        <currencyId>RUB</currencyId>          
+        <param name="Ссылка на курс">https://icareer.ru/coachfree/?utm_source=careerru&utm_medium=cpc&utm_campaign=vkkch&utm_content=coachfree&utm_term=hh_cpa</param>          
+        <param name="Выдаётся сертификат">Да</param> 
+        <param name="Помощь с трудоустройством">Нет</param> 
+        </offer> 
+        
+        </offers> 
+    </shop> 
+</yml_catalog> 
