@@ -22,7 +22,9 @@
         <price>108000</price> 
         <discount>20</discount> 
         <param name="Ежемесячный платеж">10800</param> 
-        <currencyId>RUB</currencyId>          
+        <currencyId>RUB</currencyId>     
+        <param name="Промокод">HH5</param> 
+        <param name="Скидка по промокоду в процентах">5</param> 
         <param name="Ссылка на курс">https://icareer.ru/cources/proforientacia/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=pob31&amp;utm_content=proforientacia&amp;utm_term=hh_cpa</param>         
         <param name="Выдаётся сертификат">Да</param> 
         <param name="Помощь с трудоустройством">Нет</param> 
@@ -38,7 +40,9 @@
         <price>96000</price> 
         <discount>20</discount> 
         <param name="Ежемесячный платеж">9600</param> 
-        <currencyId>RUB</currencyId>          
+        <currencyId>RUB</currencyId>  
+        <param name="Промокод">HH5</param> 
+        <param name="Скидка по промокоду в процентах">5</param> 
         <param name="Ссылка на курс">https://icareer.ru/cources/proforientacia_adult/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=pov23&amp;utm_content=proforientacia_adult&amp;utm_term=hh_cpa</param>          
         <param name="Выдаётся сертификат">Да</param> 
         <param name="Помощь с трудоустройством">Нет</param> 
@@ -54,7 +58,9 @@
         <price>128000</price> 
         <discount>20</discount> 
         <param name="Ежемесячный платеж">12800</param> 
-        <currencyId>RUB</currencyId>          
+        <currencyId>RUB</currencyId>  
+        <param name="Промокод">HH5</param> 
+        <param name="Скидка по промокоду в процентах">5</param> 
         <param name="Ссылка на курс">https://icareer.ru/cources/career_coaching/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=kch24&amp;utm_content=career_coaching&amp;utm_term=hh_cpa</param>          
         <param name="Выдаётся сертификат">Да</param> 
         <param name="Помощь с трудоустройством">Нет</param> 
@@ -66,11 +72,12 @@
         <param name="Уровень курса">С Нуля</param>  
         <param name="Формат курса">ONLINE</param>         
         <param name="Длительность курса">5 месяцев</param>  
-        <oldprice>150000</oldprice> 
-        <price>150000</price> 
+        <oldprice>150000</oldprice>
         <discount> </discount> 
         <param name="Ежемесячный платеж">15000</param> 
-        <currencyId>RUB</currencyId>          
+        <currencyId>RUB</currencyId>    
+        <param name="Промокод">HH5</param> 
+        <param name="Скидка по промокоду в процентах">5</param> 
         <param name="Ссылка на курс">https://icareer.ru/cources/career-management-online/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=kk37&amp;utm_content=career-management-online&amp;utm_term=hh_cpa</param>          
         <param name="Выдаётся сертификат">Да</param> 
         <param name="Помощь с трудоустройством">Нет</param> 
@@ -86,7 +93,9 @@
         <price>120000</price> 
         <discount>20</discount> 
         <param name="Ежемесячный платеж">12000</param> 
-        <currencyId>RUB</currencyId>          
+        <currencyId>RUB</currencyId> 
+        <param name="Промокод">HH5</param> 
+        <param name="Скидка по промокоду в процентах">5</param> 
         <param name="Ссылка на курс">https://icareer.ru/cources/employee-career-management/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=uks8&amp;utm_content=employee-career-management&amp;utm_term=hh_cpa</param>          
         <param name="Выдаётся сертификат">Да</param> 
         <param name="Помощь с трудоустройством">Нет</param> 
@@ -99,10 +108,11 @@
         <param name="Формат курса">ONLINE</param>         
         <param name="Длительность курса">2 месяца</param>  
         <oldprice>38900</oldprice> 
-        <price>38900</price> 
         <discount> </discount> 
         <param name="Ежемесячный платеж"> </param> 
         <currencyId>RUB</currencyId>          
+        <param name="Промокод">HH5</param> 
+        <param name="Скидка по промокоду в процентах">5</param> 
         <param name="Ссылка на курс">https://icareer.ru/encore-career-45/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=bis&amp;utm_content=encore-career-45&amp;utm_term=hh_cpa</param>          
         <param name="Выдаётся сертификат">Да</param> 
         <param name="Помощь с трудоустройством">Нет</param> 
@@ -118,7 +128,9 @@
         <price>28900</price> 
         <discount>51</discount> 
         <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId>          
+        <currencyId>RUB</currencyId> 
+        <param name="Промокод">HH5</param> 
+        <param name="Скидка по промокоду в процентах">5</param> 
         <param name="Ссылка на курс">https://icareer.ru/igropractic/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=ipp&amp;utm_content=igropractic&amp;utm_term=hh_cpa</param>          
         <param name="Выдаётся сертификат">Да</param> 
         <param name="Помощь с трудоустройством">Нет</param> 
@@ -131,10 +143,11 @@
         <param name="Формат курса">ONLINE</param>         
         <param name="Длительность курса">2 месяца</param>  
         <oldprice>38900</oldprice> 
-        <price>38900</price> 
         <discount> </discount> 
         <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId>          
+        <currencyId>RUB</currencyId>  
+        <param name="Промокод">HH5</param> 
+        <param name="Скидка по промокоду в процентах">5</param> 
         <param name="Ссылка на курс">https://icareer.ru/itconsultant/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=kkit&amp;utm_content=itconsultant&amp;utm_term=hh_cpa</param>          
         <param name="Выдаётся сертификат">Да</param> 
         <param name="Помощь с трудоустройством">Нет</param> 
@@ -147,10 +160,11 @@
         <param name="Формат курса">ONLINE</param>         
         <param name="Длительность курса">2 недели</param>  
         <oldprice>19900</oldprice> 
-        <price>19900</price> 
         <discount> </discount> 
         <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId>          
+        <currencyId>RUB</currencyId> 
+        <param name="Промокод">HH5</param> 
+        <param name="Скидка по промокоду в процентах">5</param> 
         <param name="Ссылка на курс">https://icareer.ru/findingajobwithai/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=prai&amp;utm_content=findingajobwithai&amp;utm_term=hh_cpa</param>          
         <param name="Выдаётся сертификат">Да</param> 
         <param name="Помощь с трудоустройством">Нет</param> 
@@ -166,7 +180,9 @@
         <price>47200</price> 
         <discount>20</discount> 
         <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId>          
+        <currencyId>RUB</currencyId>  
+        <param name="Промокод">HH5</param> 
+        <param name="Скидка по промокоду в процентах">5</param> 
         <param name="Ссылка на курс">https://icareer.ru/kkinai/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=aiks&amp;utm_content=kkinai&amp;utm_term=hh_cpa</param>          
         <param name="Выдаётся сертификат">Да</param> 
         <param name="Помощь с трудоустройством">Нет</param> 
@@ -179,10 +195,11 @@
         <param name="Формат курса">ONLINE</param>         
         <param name="Длительность курса">2 месяца</param>  
         <oldprice>17900</oldprice> 
-        <price>17900</price> 
         <discount> </discount> 
         <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId>          
+        <currencyId>RUB</currencyId>  
+        <param name="Промокод">HH5</param> 
+        <param name="Скидка по промокоду в процентах">5</param> 
         <param name="Ссылка на курс">https://icareer.ru/preparing-for-the-interview/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=pki&amp;utm_content=preparing-for-the-interview&amp;utm_term=hh_cpa</param>          
         <param name="Выдаётся сертификат">Да</param> 
         <param name="Помощь с трудоустройством">Нет</param> 
@@ -195,10 +212,11 @@
         <param name="Формат курса">ONLINE</param>         
         <param name="Длительность курса">2 месяца</param>  
         <oldprice>17900</oldprice> 
-        <price>17900</price> 
         <discount> </discount> 
         <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId>          
+        <currencyId>RUB</currencyId>     
+        <param name="Промокод">HH5</param> 
+        <param name="Скидка по промокоду в процентах">5</param> 
         <param name="Ссылка на курс">https://icareer.ru/top-management/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=tm&amp;utm_content=top-management&amp;utm_term=hh_cpa</param>          
         <param name="Выдаётся сертификат">Да</param> 
         <param name="Помощь с трудоустройством">Нет</param> 
@@ -209,7 +227,7 @@
         <description>Бесплатный курс по основам профориентации взрослых: от выгорания до смены профессии.</description> 
         <param name="Уровень курса">С Нуля</param>  
         <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">1 день</param>  
+        <param name="Длительность курса">6 часов</param>  
         <oldprice> </oldprice> 
         <price> </price> 
         <discount> </discount> 
@@ -225,7 +243,7 @@
         <description>Основы работы с запросами клиентов и начала пути карьерного консультанта.</description> 
         <param name="Уровень курса">С Нуля</param>  
         <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">1 день</param>  
+        <param name="Длительность курса">6 часов</param>  
         <oldprice> </oldprice> 
         <price> </price> 
         <discount> </discount> 
@@ -241,7 +259,7 @@
         <description>Основы профориентации подростков и начало профессионального пути.</description> 
         <param name="Уровень курса">С Нуля</param>  
         <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">1 день</param>  
+        <param name="Длительность курса">6 часов</param>  
         <oldprice> </oldprice> 
         <price> </price> 
         <discount> </discount> 
@@ -257,7 +275,7 @@
         <description>Узнайте, как стать карьерным коучем и работать с запросами клиентов.</description> 
         <param name="Уровень курса">С Нуля</param>  
         <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">1 день</param>  
+        <param name="Длительность курса">6 часов</param>  
         <oldprice> </oldprice> 
         <price> </price> 
         <discount> </discount> 
@@ -272,3 +290,4 @@
     </shop> 
 
 </yml_catalog> 
+
