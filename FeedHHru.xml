@@ -4,7 +4,6 @@
 <company>ООО Школа карьерного менеджмента</company>
 <url>https://icareer.ru/</url>
 <email>sales@icareer.ru</email>
-<!--  TODO: замените на прямую ссылку на файл логотипа на вашем домене  -->
 <picture>https://icareer.ru/logo.png</picture>
 <description>Онлайн школа обучения на профориентологов и карьерных консультантов.</description>
 <currencies>
@@ -14,19 +13,13 @@
 <offer id="proforientacia">
 <name>Профориентатор Будущего</name>
 <url>https://icareer.ru/cources/proforientacia/?utm_source=careerru&utm_medium=cpc&utm_campaign=pob31&utm_content=proforientacia&utm_term=hh_cpa</url>
-<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
 <categoryId>TODO_CATEGORY_ID</categoryId>
 <price>135000</price>
 <currencyId>RUR</currencyId>
 <param name="Цена по скидке">108000</param>
-<!--  TODO: укажите дату окончания скидки, если скидка активна  -->
-<!--  <param name="Дата окончания скидки">2026-12-31T23:59:59+03:00</param>  -->
 <param name="Оплата в рассрочку" unit="месяц">20</param>
 <param name="Ежемесячная цена">10800</param>
-<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
-<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
 <param name="Продолжительность" unit="месяц">4</param>
-<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
 <param name="План" order="1" unit="Модуль 1" hours="1">
 <![CDATA[ TODO: описание модуля 1 ]]>
 </param>
@@ -36,9 +29,7 @@
 <param name="План" order="3" unit="Модуль 3" hours="1">
 <![CDATA[ TODO: описание модуля 3 ]]>
 </param>
-<!--  TODO: проверьте точный формат обучения по странице курса  -->
 <param name="Формат обучения">Самостоятельно</param>
-<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
 <param name="Есть вебинары">false</param>
 <param name="Есть домашние работы">false</param>
 <param name="Есть видеоуроки">true</param>
@@ -48,12 +39,6 @@
 <param name="Сложность">Для новичков</param>
 <param name="Тип обучения">Профессия</param>
 <param name="Есть бесплатная часть">false</param>
-<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
-<!--  <param name="Результат обучения">Сертификат</param>  -->
-<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
-<!--  <param name="Часы в неделю">4</param>  -->
-<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
-<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
 <description>
 <![CDATA[ Курс по профориентации: методы диагностики, консультации и помощь подросткам в выборе карьеры. ]]>
 </description>
@@ -61,19 +46,13 @@
 <offer id="proforientacia_adult">
 <name>Профориентация и самоопределение взрослых</name>
 <url>https://icareer.ru/cources/proforientacia_adult/?utm_source=careerru&utm_medium=cpc&utm_campaign=pov23&utm_content=proforientacia_adult&utm_term=hh_cpa</url>
-<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
 <categoryId>TODO_CATEGORY_ID</categoryId>
 <price>120000</price>
 <currencyId>RUR</currencyId>
 <param name="Цена по скидке">96000</param>
-<!--  TODO: укажите дату окончания скидки, если скидка активна  -->
-<!--  <param name="Дата окончания скидки">2026-12-31T23:59:59+03:00</param>  -->
 <param name="Оплата в рассрочку" unit="месяц">20</param>
 <param name="Ежемесячная цена">9600</param>
-<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
-<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
 <param name="Продолжительность" unit="месяц">4</param>
-<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
 <param name="План" order="1" unit="Модуль 1" hours="1">
 <![CDATA[ TODO: описание модуля 1 ]]>
 </param>
@@ -83,9 +62,7 @@
 <param name="План" order="3" unit="Модуль 3" hours="1">
 <![CDATA[ TODO: описание модуля 3 ]]>
 </param>
-<!--  TODO: проверьте точный формат обучения по странице курса  -->
 <param name="Формат обучения">Самостоятельно</param>
-<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
 <param name="Есть вебинары">false</param>
 <param name="Есть домашние работы">false</param>
 <param name="Есть видеоуроки">true</param>
