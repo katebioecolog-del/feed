@@ -1,293 +1,717 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<yml_catalog date="2026-03-06T12:00:00+03:00"> 
-    <shop> 
-    <name>Школа карьерного менеджмента</name> 
-    <description>Школа, обучающая карьерному консультированию и современным инструментам карьерного роста.</description> 
-    <url>https://icareer.ru</url>
-     
-    <currencies> 
-    <currency id="RUB" rate="1"/> 
-    <currency id="USD" rate="0.01"/> 
-    <currency id="EUR" rate="0.009"/>
-    </currencies> 
-     
-        <offers> 
-        <offer id="1" available="true">
-        <name>Профориентатор Будущего</name> 
-        <description>Курс по профориентации: методы диагностики, консультации и помощь подросткам в выборе карьеры.</description> 
-        <param name="Уровень курса">С Нуля</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">4 месяца</param>  
-        <oldprice>135000</oldprice> 
-        <price>108000</price> 
-        <discount>20</discount> 
-        <param name="Ежемесячный платеж">10800</param> 
-        <currencyId>RUB</currencyId>     
-        <param name="Промокод">HH5</param> 
-        <param name="Скидка по промокоду в процентах">5</param> 
-        <param name="Ссылка на курс">https://icareer.ru/cources/proforientacia/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=pob31&amp;utm_content=proforientacia&amp;utm_term=hh_cpa</param>         
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        <offer id="2" available="true">
-        <name>Профориентация и самоопределение взрослых</name> 
-        <description>Обучение помощи взрослым в выборе карьеры с практикой и инструментами профориентации.</description> 
-        <param name="Уровень курса">С Нуля</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">4 месяца</param>  
-        <oldprice>120000</oldprice> 
-        <price>96000</price> 
-        <discount>20</discount> 
-        <param name="Ежемесячный платеж">9600</param> 
-        <currencyId>RUB</currencyId>  
-        <param name="Промокод">HH5</param> 
-        <param name="Скидка по промокоду в процентах">5</param> 
-        <param name="Ссылка на курс">https://icareer.ru/cources/proforientacia_adult/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=pov23&amp;utm_content=proforientacia_adult&amp;utm_term=hh_cpa</param>          
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        <offer id="3" available="true">
-        <name>Карьерный коуч по стандартам ICF</name> 
-        <description>Практический курс карьерного коучинга с супервизиями и живыми сессиями.</description> 
-        <param name="Уровень курса">С Нуля</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">3 месяца</param>  
-        <oldprice>160000</oldprice> 
-        <price>128000</price> 
-        <discount>20</discount> 
-        <param name="Ежемесячный платеж">12800</param> 
-        <currencyId>RUB</currencyId>  
-        <param name="Промокод">HH5</param> 
-        <param name="Скидка по промокоду в процентах">5</param> 
-        <param name="Ссылка на курс">https://icareer.ru/cources/career_coaching/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=kch24&amp;utm_content=career_coaching&amp;utm_term=hh_cpa</param>          
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        <offer id="4" available="true">
-        <name>Карьерный консультант</name> 
-        <description>Практические методы карьерного консультирования и работы с клиентами.</description> 
-        <param name="Уровень курса">С Нуля</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">5 месяцев</param>  
-        <oldprice>150000</oldprice>
-        <discount> </discount> 
-        <param name="Ежемесячный платеж">15000</param> 
-        <currencyId>RUB</currencyId>    
-        <param name="Промокод">HH5</param> 
-        <param name="Скидка по промокоду в процентах">5</param> 
-        <param name="Ссылка на курс">https://icareer.ru/cources/career-management-online/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=kk37&amp;utm_content=career-management-online&amp;utm_term=hh_cpa</param>          
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        <offer id="5" available="true">
-        <name>Управление карьерой сотрудников</name> 
-        <description>Стратегии развития карьерных треков сотрудников внутри компании.</description> 
-        <param name="Уровень курса">Продвинутый</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">4 месяца</param>  
-        <oldprice>150000</oldprice> 
-        <price>120000</price> 
-        <discount>20</discount> 
-        <param name="Ежемесячный платеж">12000</param> 
-        <currencyId>RUB</currencyId> 
-        <param name="Промокод">HH5</param> 
-        <param name="Скидка по промокоду в процентах">5</param> 
-        <param name="Ссылка на курс">https://icareer.ru/cources/employee-career-management/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=uks8&amp;utm_content=employee-career-management&amp;utm_term=hh_cpa</param>          
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        <offer id="6" available="true">
-        <name>Работа с клиентами 45 +</name> 
-        <description>Помощь в смене профессии и поиске новых карьерных возможностей после 45 лет.</description> 
-        <param name="Уровень курса">С Нуля</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">2 месяца</param>  
-        <oldprice>38900</oldprice> 
-        <discount> </discount> 
-        <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId>          
-        <param name="Промокод">HH5</param> 
-        <param name="Скидка по промокоду в процентах">5</param> 
-        <param name="Ссылка на курс">https://icareer.ru/encore-career-45/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=bis&amp;utm_content=encore-career-45&amp;utm_term=hh_cpa</param>          
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        <offer id="7" available="true">
-        <name>Игровые практики в работе с подростками</name> 
-        <description>Обучение игровым методам в профессиональном развитии и профориентации.</description> 
-        <param name="Уровень курса">С Нуля</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">2 месяца</param>  
-        <oldprice>60000</oldprice> 
-        <price>28900</price> 
-        <discount>51</discount> 
-        <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId> 
-        <param name="Промокод">HH5</param> 
-        <param name="Скидка по промокоду в процентах">5</param> 
-        <param name="Ссылка на курс">https://icareer.ru/igropractic/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=ipp&amp;utm_content=igropractic&amp;utm_term=hh_cpa</param>          
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        <offer id="8" available="true">
-        <name>Карьерный консультант в IT</name> 
-        <description>Подготовка к работе консультантом для IT‑специалистов.</description> 
-        <param name="Уровень курса">С Нуля</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">2 месяца</param>  
-        <oldprice>38900</oldprice> 
-        <discount> </discount> 
-        <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId>  
-        <param name="Промокод">HH5</param> 
-        <param name="Скидка по промокоду в процентах">5</param> 
-        <param name="Ссылка на курс">https://icareer.ru/itconsultant/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=kkit&amp;utm_content=itconsultant&amp;utm_term=hh_cpa</param>          
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        <offer id="9" available="true">
-        <name>Поиск работы с AI</name> 
-        <description>Как использовать искусственный интеллект для поиска работы.</description> 
-        <param name="Уровень курса">С Нуля</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">2 недели</param>  
-        <oldprice>19900</oldprice> 
-        <discount> </discount> 
-        <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId> 
-        <param name="Промокод">HH5</param> 
-        <param name="Скидка по промокоду в процентах">5</param> 
-        <param name="Ссылка на курс">https://icareer.ru/findingajobwithai/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=prai&amp;utm_content=findingajobwithai&amp;utm_term=hh_cpa</param>          
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        <offer id="10" available="true">
-        <name>AI в работе карьерного специалиста</name> 
-        <description>Обучение карьерному консультированию с AI‑инструментами.</description> 
-        <param name="Уровень курса">С Нуля</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">2 месяца</param>  
-        <oldprice>59000</oldprice> 
-        <price>47200</price> 
-        <discount>20</discount> 
-        <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId>  
-        <param name="Промокод">HH5</param> 
-        <param name="Скидка по промокоду в процентах">5</param> 
-        <param name="Ссылка на курс">https://icareer.ru/kkinai/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=aiks&amp;utm_content=kkinai&amp;utm_term=hh_cpa</param>          
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        <offer id="11" available="true">
-        <name>Подготовка клиента к интервью</name> 
-        <description>Практические навыки подготовки к успешному собеседованию.</description> 
-        <param name="Уровень курса">С Нуля</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">2 месяца</param>  
-        <oldprice>17900</oldprice> 
-        <discount> </discount> 
-        <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId>  
-        <param name="Промокод">HH5</param> 
-        <param name="Скидка по промокоду в процентах">5</param> 
-        <param name="Ссылка на курс">https://icareer.ru/preparing-for-the-interview/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=pki&amp;utm_content=preparing-for-the-interview&amp;utm_term=hh_cpa</param>          
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        <offer id="12" available="true">
-        <name>Топ-менеджеры</name> 
-        <description>Чек-листы и техники для решения самых частых запросов руководителей.</description> 
-        <param name="Уровень курса">Продвинутый</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">2 месяца</param>  
-        <oldprice>17900</oldprice> 
-        <discount> </discount> 
-        <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId>     
-        <param name="Промокод">HH5</param> 
-        <param name="Скидка по промокоду в процентах">5</param> 
-        <param name="Ссылка на курс">https://icareer.ru/top-management/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=tm&amp;utm_content=top-management&amp;utm_term=hh_cpa</param>          
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        <offer id="13" available="true">
-        <name>Введение в Профориентацию взрослых</name> 
-        <description>Бесплатный курс по основам профориентации взрослых: от выгорания до смены профессии.</description> 
-        <param name="Уровень курса">С Нуля</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">6 часов</param>  
-        <oldprice> </oldprice> 
-        <price> </price> 
-        <discount> </discount> 
-        <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId>          
-        <param name="Ссылка на курс">https://icareer.ru/freepov/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=vpov&amp;utm_content=freepov&amp;utm_term=hh_cpa</param>          
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        <offer id="14" available="true">
-        <name>Введение в профессию Карьерный консультант</name> 
-        <description>Основы работы с запросами клиентов и начала пути карьерного консультанта.</description> 
-        <param name="Уровень курса">С Нуля</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">6 часов</param>  
-        <oldprice> </oldprice> 
-        <price> </price> 
-        <discount> </discount> 
-        <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId>          
-        <param name="Ссылка на курс">https://icareer.ru/kkfree/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=vkk&amp;utm_content=kkfree&amp;utm_term=hh_cpa</param>          
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        <offer id="15" available="true">
-        <name>Введение в профессию Профориентатор будущего</name> 
-        <description>Основы профориентации подростков и начало профессионального пути.</description> 
-        <param name="Уровень курса">С Нуля</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">6 часов</param>  
-        <oldprice> </oldprice> 
-        <price> </price> 
-        <discount> </discount> 
-        <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId>          
-        <param name="Ссылка на курс">https://icareer.ru/pobfree/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=vpob&amp;utm_content=pobfree&amp;utm_term=hh_cpa</param>          
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        <offer id="16" available="true">
-        <name>Введение в профессию Карьерный коуч</name> 
-        <description>Узнайте, как стать карьерным коучем и работать с запросами клиентов.</description> 
-        <param name="Уровень курса">С Нуля</param>  
-        <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">6 часов</param>  
-        <oldprice> </oldprice> 
-        <price> </price> 
-        <discount> </discount> 
-        <param name="Ежемесячный платеж"> </param> 
-        <currencyId>RUB</currencyId>          
-        <param name="Ссылка на курс">https://icareer.ru/coachfree/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=vkkch&amp;utm_content=coachfree&amp;utm_term=hh_cpa</param>          
-        <param name="Выдаётся сертификат">Да</param> 
-        <param name="Помощь с трудоустройством">Нет</param> 
-        </offer> 
-        
-        </offers> 
-    </shop> 
-
-</yml_catalog> 
-
+<yml_catalog date="2026-04-09 12:00">
+<shop>
+<name>Школа карьерного менеджмента</name>
+<company>ООО Школа карьерного менеджмента</company>
+<url>https://icareer.ru/</url>
+<email>sales@icareer.ru</email>
+<!--  TODO: замените на прямую ссылку на файл логотипа на вашем домене  -->
+<picture>https://icareer.ru/logo.png</picture>
+<description>Онлайн школа обучения на профориентологов и карьерных консультантов.</description>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<offers>
+<offer id="proforientacia">
+<name>Профориентатор Будущего</name>
+<url>https://icareer.ru/cources/proforientacia/?utm_source=careerru&utm_medium=cpc&utm_campaign=pob31&utm_content=proforientacia&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>135000</price>
+<currencyId>RUR</currencyId>
+<param name="Цена по скидке">108000</param>
+<!--  TODO: укажите дату окончания скидки, если скидка активна  -->
+<!--  <param name="Дата окончания скидки">2026-12-31T23:59:59+03:00</param>  -->
+<param name="Оплата в рассрочку" unit="месяц">20</param>
+<param name="Ежемесячная цена">10800</param>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="месяц">4</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Профессия</param>
+<param name="Есть бесплатная часть">false</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Курс по профориентации: методы диагностики, консультации и помощь подросткам в выборе карьеры. ]]>
+</description>
+</offer>
+<offer id="proforientacia_adult">
+<name>Профориентация и самоопределение взрослых</name>
+<url>https://icareer.ru/cources/proforientacia_adult/?utm_source=careerru&utm_medium=cpc&utm_campaign=pov23&utm_content=proforientacia_adult&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>120000</price>
+<currencyId>RUR</currencyId>
+<param name="Цена по скидке">96000</param>
+<!--  TODO: укажите дату окончания скидки, если скидка активна  -->
+<!--  <param name="Дата окончания скидки">2026-12-31T23:59:59+03:00</param>  -->
+<param name="Оплата в рассрочку" unit="месяц">20</param>
+<param name="Ежемесячная цена">9600</param>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="месяц">4</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Профессия</param>
+<param name="Есть бесплатная часть">false</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Обучение помощи взрослым в выборе карьеры с практикой и инструментами профориентации. ]]>
+</description>
+</offer>
+<offer id="career_coaching">
+<name>Карьерный коуч по стандартам ICF</name>
+<url>https://icareer.ru/cources/career_coaching/?utm_source=careerru&utm_medium=cpc&utm_campaign=kch24&utm_content=career_coaching&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>160000</price>
+<currencyId>RUR</currencyId>
+<param name="Цена по скидке">128000</param>
+<!--  TODO: укажите дату окончания скидки, если скидка активна  -->
+<!--  <param name="Дата окончания скидки">2026-12-31T23:59:59+03:00</param>  -->
+<param name="Оплата в рассрочку" unit="месяц">20</param>
+<param name="Ежемесячная цена">12800</param>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="месяц">3</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Профессия</param>
+<param name="Есть бесплатная часть">false</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Практический курс карьерного коучинга с супервизиями и живыми сессиями. ]]>
+</description>
+</offer>
+<offer id="career-management-online">
+<name>Карьерный консультант</name>
+<url>https://icareer.ru/cources/career-management-online/?utm_source=careerru&utm_medium=cpc&utm_campaign=kk37&utm_content=career-management-online&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>150000</price>
+<currencyId>RUR</currencyId>
+<param name="Ежемесячная цена">15000</param>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="месяц">5</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Профессия</param>
+<param name="Есть бесплатная часть">false</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Практические методы карьерного консультирования и работы с клиентами. ]]>
+</description>
+</offer>
+<offer id="employee-career-management">
+<name>Управление карьерой сотрудников</name>
+<url>https://icareer.ru/cources/employee-career-management/?utm_source=careerru&utm_medium=cpc&utm_campaign=uks8&utm_content=employee-career-management&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>150000</price>
+<currencyId>RUR</currencyId>
+<param name="Цена по скидке">120000</param>
+<!--  TODO: укажите дату окончания скидки, если скидка активна  -->
+<!--  <param name="Дата окончания скидки">2026-12-31T23:59:59+03:00</param>  -->
+<param name="Оплата в рассрочку" unit="месяц">20</param>
+<param name="Ежемесячная цена">12000</param>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="месяц">4</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для опытных</param>
+<param name="Тип обучения">Профессия</param>
+<param name="Есть бесплатная часть">false</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Стратегии развития карьерных треков сотрудников внутри компании. ]]>
+</description>
+</offer>
+<offer id="encore-career-45">
+<name>Работа с клиентами 45+</name>
+<url>https://icareer.ru/encore-career-45/?utm_source=careerru&utm_medium=cpc&utm_campaign=bis&utm_content=encore-career-45&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>38900</price>
+<currencyId>RUR</currencyId>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="месяц">2</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Курс</param>
+<param name="Есть бесплатная часть">false</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Помощь в смене профессии и поиске новых карьерных возможностей после 45 лет. ]]>
+</description>
+</offer>
+<offer id="igropractic">
+<name>Игровые практики в работе с подростками</name>
+<url>https://icareer.ru/igropractic/?utm_source=careerru&utm_medium=cpc&utm_campaign=ipp&utm_content=igropractic&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>60000</price>
+<currencyId>RUR</currencyId>
+<param name="Цена по скидке">28900</param>
+<!--  TODO: укажите дату окончания скидки, если скидка активна  -->
+<!--  <param name="Дата окончания скидки">2026-12-31T23:59:59+03:00</param>  -->
+<param name="Оплата в рассрочку" unit="месяц">51</param>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="месяц">2</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Курс</param>
+<param name="Есть бесплатная часть">false</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Обучение игровым методам в профессиональном развитии и профориентации. ]]>
+</description>
+</offer>
+<offer id="itconsultant">
+<name>Карьерный консультант в IT</name>
+<url>https://icareer.ru/itconsultant/?utm_source=careerru&utm_medium=cpc&utm_campaign=kkit&utm_content=itconsultant&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>38900</price>
+<currencyId>RUR</currencyId>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="месяц">2</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Курс</param>
+<param name="Есть бесплатная часть">false</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Подготовка к работе консультантом для IT‑специалистов. ]]>
+</description>
+</offer>
+<offer id="findingajobwithai">
+<name>Поиск работы с AI</name>
+<url>https://icareer.ru/findingajobwithai/?utm_source=careerru&utm_medium=cpc&utm_campaign=prai&utm_content=findingajobwithai&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>19900</price>
+<currencyId>RUR</currencyId>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="неделя">2</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Курс</param>
+<param name="Есть бесплатная часть">false</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Как использовать искусственный интеллект для поиска работы. ]]>
+</description>
+</offer>
+<offer id="kkinai">
+<name>AI в работе карьерного специалиста</name>
+<url>https://icareer.ru/kkinai/?utm_source=careerru&utm_medium=cpc&utm_campaign=aiks&utm_content=kkinai&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>59000</price>
+<currencyId>RUR</currencyId>
+<param name="Цена по скидке">47200</param>
+<!--  TODO: укажите дату окончания скидки, если скидка активна  -->
+<!--  <param name="Дата окончания скидки">2026-12-31T23:59:59+03:00</param>  -->
+<param name="Оплата в рассрочку" unit="месяц">20</param>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="месяц">2</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Курс</param>
+<param name="Есть бесплатная часть">false</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Обучение карьерному консультированию с AI‑инструментами. ]]>
+</description>
+</offer>
+<offer id="preparing-for-the-interview">
+<name>Подготовка клиента к интервью</name>
+<url>https://icareer.ru/preparing-for-the-interview/?utm_source=careerru&utm_medium=cpc&utm_campaign=pki&utm_content=preparing-for-the-interview&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>17900</price>
+<currencyId>RUR</currencyId>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="месяц">2</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Курс</param>
+<param name="Есть бесплатная часть">false</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Практические навыки подготовки к успешному собеседованию. ]]>
+</description>
+</offer>
+<offer id="top-management">
+<name>Топ-менеджеры</name>
+<url>https://icareer.ru/top-management/?utm_source=careerru&utm_medium=cpc&utm_campaign=tm&utm_content=top-management&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>17900</price>
+<currencyId>RUR</currencyId>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="месяц">2</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для опытных</param>
+<param name="Тип обучения">Курс</param>
+<param name="Есть бесплатная часть">false</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Чек-листы и техники для решения самых частых запросов руководителей. ]]>
+</description>
+</offer>
+<offer id="freepov">
+<name>Введение в Профориентацию взрослых</name>
+<url>https://icareer.ru/freepov/?utm_source=careerru&utm_medium=cpc&utm_campaign=vpov&utm_content=freepov&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>0</price>
+<currencyId>RUR</currencyId>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="час">6</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Курс</param>
+<param name="Есть бесплатная часть">true</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Бесплатный курс по основам профориентации взрослых: от выгорания до смены профессии. ]]>
+</description>
+</offer>
+<offer id="kkfree">
+<name>Введение в профессию Карьерный консультант</name>
+<url>https://icareer.ru/kkfree/?utm_source=careerru&utm_medium=cpc&utm_campaign=vkk&utm_content=kkfree&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>0</price>
+<currencyId>RUR</currencyId>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="час">6</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Курс</param>
+<param name="Есть бесплатная часть">true</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Основы работы с запросами клиентов и начала пути карьерного консультанта. ]]>
+</description>
+</offer>
+<offer id="pobfree">
+<name>Введение в профессию Профориентатор будущего</name>
+<url>https://icareer.ru/pobfree/?utm_source=careerru&utm_medium=cpc&utm_campaign=vpob&utm_content=pobfree&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>0</price>
+<currencyId>RUR</currencyId>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="час">6</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Курс</param>
+<param name="Есть бесплатная часть">true</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Основы профориентации подростков и начало профессионального пути. ]]>
+</description>
+</offer>
+<offer id="coachfree">
+<name>Введение в профессию Карьерный коуч</name>
+<url>https://icareer.ru/coachfree/?utm_source=careerru&utm_medium=cpc&utm_campaign=vkkch&utm_content=coachfree&utm_term=hh_cpa</url>
+<!--  TODO: укажите categoryId из рубрикатора Яндекса  -->
+<categoryId>TODO_CATEGORY_ID</categoryId>
+<price>0</price>
+<currencyId>RUR</currencyId>
+<!--  TODO: если курс стартует потоком, поставьте ближайшую доступную будущую дату старта  -->
+<!--  <param name="Ближайшая дата">2026-05-01T00:00:00+03:00</param>  -->
+<param name="Продолжительность" unit="час">6</param>
+<!--  TODO: Яндекс ожидает минимум 3 блока плана. Замените заглушки на реальную программу курса.  -->
+<param name="План" order="1" unit="Модуль 1" hours="1">
+<![CDATA[ TODO: описание модуля 1 ]]>
+</param>
+<param name="План" order="2" unit="Модуль 2" hours="1">
+<![CDATA[ TODO: описание модуля 2 ]]>
+</param>
+<param name="План" order="3" unit="Модуль 3" hours="1">
+<![CDATA[ TODO: описание модуля 3 ]]>
+</param>
+<!--  TODO: проверьте точный формат обучения по странице курса  -->
+<param name="Формат обучения">Самостоятельно</param>
+<!--  TODO: при необходимости замените true/false по фактическому наполнению курса  -->
+<param name="Есть вебинары">false</param>
+<param name="Есть домашние работы">false</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">false</param>
+<param name="Есть тренажеры">false</param>
+<param name="Есть сообщество">false</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Курс</param>
+<param name="Есть бесплатная часть">true</param>
+<!--  TODO: укажите результат обучения, если он есть: Сертификат / Диплом / Удостоверение  -->
+<!--  <param name="Результат обучения">Сертификат</param>  -->
+<!--  TODO: укажите реальную нагрузку в часах в неделю  -->
+<!--  <param name="Часы в неделю">4</param>  -->
+<!--  TODO: добавьте обложку курса, если есть прямая ссылка на изображение  -->
+<!--  <picture>https://icareer.ru/path/to/course-cover.jpg</picture>  -->
+<description>
+<![CDATA[ Узнайте, как стать карьерным коучем и работать с запросами клиентов. ]]>
+</description>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
