@@ -20,11 +20,12 @@
 <offer id="kkinai">
   <name>Искусственный интеллект в работе карьерного эксперта</name>
   <url>https://icareer.ru/kkinai</url>
-  <categoryId>208</categoryId>
+ <categories>
+  <category id="208">Название</category>
+</categories>
   <set-ids>ai</set-ids>
   <price>59000</price>
   <currencyId>RUR</currencyId>
-  <param name="Цена по скидке">7000</param>
   <param name="Продолжительность" unit="неделя">4</param>
   <param name="План" order="1" unit="Unit 1">Вводный урок: что такое нейросети, типы ИИ, инструменты, ограничения, этика и безопасность данных клиентов</param>
   <param name="План" order="2" unit="Unit 2">Работа с запросами клиентов: первичная диагностика, анализ карьерного нарратива, выявление сильных сторон, ограничений и ценностей</param>
