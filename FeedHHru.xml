@@ -35,7 +35,7 @@
         <param name="Уровень курса">С Нуля</param>  
         <param name="Формат курса">ONLINE</param>         
         <param name="Длительность курса">4 месяца</param>  
-        <oldprice>120000</oldprice> 
+        <oldprice> </oldprice> 
         <price>120000</price> 
         <discount> </discount> 
         <param name="Ежемесячный платеж">9600</param> 
@@ -87,7 +87,7 @@
         <param name="Уровень курса">Продвинутый</param>  
         <param name="Формат курса">ONLINE</param>         
         <param name="Длительность курса">4 месяца</param>  
-        <oldprice>150000</oldprice> 
+        <oldprice> </oldprice> 
         <price>150000</price> 
         <discount> </discount> 
         <param name="Ежемесячный платеж">12000</param> 
@@ -156,7 +156,7 @@
         <param name="Уровень курса">С Нуля</param>  
         <param name="Формат курса">ONLINE</param>         
         <param name="Длительность курса">2 недели</param>  
-        <oldprice>19900</oldprice> 
+        <oldprice> </oldprice> 
         <price>19900</price> 
         <discount> </discount> 
         <param name="Ежемесячный платеж"> </param> 
@@ -223,7 +223,7 @@
         <description>Бесплатный курс по основам профориентации взрослых: от выгорания до смены профессии.</description> 
         <param name="Уровень курса">С Нуля</param>  
         <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">1 день</param>  
+        <param name="Длительность курса">6 часов</param>  
         <oldprice> </oldprice> 
         <price> </price> 
         <discount> </discount> 
@@ -239,7 +239,7 @@
         <description>Основы работы с запросами клиентов и начала пути карьерного консультанта.</description> 
         <param name="Уровень курса">С Нуля</param>  
         <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">1 день</param>  
+        <param name="Длительность курса">3 часа</param>  
         <oldprice> </oldprice> 
         <price> </price> 
         <discount> </discount> 
@@ -255,7 +255,7 @@
         <description>Основы профориентации подростков и начало профессионального пути.</description> 
         <param name="Уровень курса">С Нуля</param>  
         <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">1 день</param>  
+        <param name="Длительность курса">6 часов</param>  
         <oldprice> </oldprice> 
         <price> </price> 
         <discount> </discount> 
@@ -271,7 +271,7 @@
         <description>Узнайте, как стать карьерным коучем и работать с запросами клиентов.</description> 
         <param name="Уровень курса">С Нуля</param>  
         <param name="Формат курса">ONLINE</param>         
-        <param name="Длительность курса">1 день</param>  
+        <param name="Длительность курса">6 часов</param>  
         <oldprice> </oldprice> 
         <price> </price> 
         <discount> </discount> 
