@@ -25,7 +25,7 @@
         <currencyId>RUB</currencyId>     
         <param name="Промокод">HH10</param>
         <param name="Скидка по промокоду в процентах">10</param>
-        <param name="Ссылка на курс">https://icareer.ru/cources/proforientacia/?utm_source=careerru&amp;utm_medium=cpc&amp;amp;utm_campaign=pob31&amp;amp;utm_content=proforientacia&amp;amp;utm_term=hh_cpa</param>         
+        <param name="Ссылка на курс">https://icareer.ru/profteenagers/?utm_source=careerru&amp;utm_medium=cpc&amp;amp;utm_campaign=pob31&amp;amp;utm_content=proforientacia&amp;amp;utm_term=hh_cpa</param>         
         <param name="Выдаётся сертификат">Да</param> 
         <param name="Помощь с трудоустройством">Нет</param> 
         </offer> 
@@ -43,7 +43,7 @@
         <currencyId>RUB</currencyId>  
         <param name="Промокод">HH10</param>
         <param name="Скидка по промокоду в процентах">10</param>
-        <param name="Ссылка на курс">https://icareer.ru/cources/proforientacia_adult/?utm_source=careerru&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=pov23&amp;utm_content=proforientacia_adult&amp;utm_term=hh_cpa</param>          
+        <param name="Ссылка на курс">https://icareer.ru/adultproforientacia/?utm_source=careerru&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=pov23&amp;utm_content=proforientacia_adult&amp;utm_term=hh_cpa</param>          
         <param name="Выдаётся сертификат">Да</param> 
         <param name="Помощь с трудоустройством">Нет</param> 
         </offer> 
