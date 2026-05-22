@@ -1,61 +1,44 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-15 12:10">
-  <shop>
-    <name>Школа карьерного менеджмента</name>
-    <company>ООО Школа карьерного менеджмента</company>
-    <url>https://icareer.ru/</url>
-    <email>sales@icareer.ru</email>
-    <picture>https://hot.tw1.su/ic.png</picture>
-    <description>Школа по обучение HR, профориентаторов, карьерных консультантов</description>
-
-    <currencies>
-      <currency id="RUR" rate="1"/>
-    </currencies>
-
-    <categories>
-      <category id="208">Курсы</category>
-    </categories>
-
-    <sets>
-      <set id="ai">
-        <name>Курс по искусственному интеллекту</name>
-        <url>https://icareer.ru/kkinai</url>
-      </set>
-    </sets>
-
-    <offers>
-      <offer id="kkinai">
-        <name>Искусственный интеллект в работе карьерного эксперта</name>
-        <url>https://icareer.ru/kkinai</url>
-        <categoryId>208</categoryId>
-        <set-ids>ai</set-ids>
-        <price>59000</price>
-        <currencyId>RUR</currencyId>
-
-        <param name="Продолжительность" unit="неделя">4</param>
-        <param name="План" order="1">Вводный урок: что такое нейросети, типы ИИ, инструменты, ограничения, этика и безопасность данных клиентов</param>
-        <param name="План" order="2">Работа с запросами клиентов: первичная диагностика, анализ карьерного нарратива, выявление сильных сторон, ограничений и ценностей</param>
-        <param name="План" order="3">Профориентация и смена профессии с помощью ИИ: генерация гипотез, анализ профессий, карты компетенций, оценка рисков переходов</param>
-        <param name="План" order="4">Анализ рынка труда с помощью ИИ: вакансии, требования, тренды, зарплатные ожидания, проверка и верификация данных</param>
-        <param name="План" order="5">Стратегия поиска работы с ИИ: подбор целевых компаний, аналитика открытых источников, карьерные шаги на 30 / 60 / 90 дней</param>
-        <param name="План" order="6">Резюме, CV и профессиональные профили в LinkedIn</param>
-
-        <param name="Формат обучения">С преподавателем</param>
-        <param name="Есть вебинары">true</param>
-        <param name="Есть домашние работы">true</param>
-        <param name="Есть видеоуроки">true</param>
-        <param name="Есть текстовые уроки">false</param>
-        <param name="Есть тренажеры">false</param>
-        <param name="Есть сообщество">true</param>
-        <param name="Сложность">Для практикующих специалистов</param>
-        <param name="Тип обучения">Курс</param>
-        <param name="Есть бесплатная часть">false</param>
-        <param name="Результат обучения">Сертификат</param>
-        <param name="Часы в неделю" unit="час">4</param>
-
-        <picture>https://hot.tw1.su/ic.png</picture>
-        <description>Практический курс по применению искусственного интеллекта в работе карьерного эксперта: от первичной диагностики клиента и анализа рынка труда до стратегии поиска работы, подготовки карьерных решений и повышения качества консультаций.</description>
-      </offer>
-    </offers>
-  </shop>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-05-22 14:37">
+<shop>
+<name>Школа карьерного менеджмента</name>
+<company>ООО Школа карьерного менеджмента</company>
+<url>https://icareer.ru/</url>
+<email>sales@icareer.ru</email>
+<picture>https://hot.tw1.su/ic.png</picture>
+<description>
+Школа по обучению HR, профориентаторов и карьерных консультантов
+</description>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="208">Курсы</category>
+</categories>
+<offers>
+<offer id="kkinai">
+<name>Искусственный интеллект в работе карьерного эксперта</name>
+<url>https://icareer.ru/kkinai</url>
+<categoryId>208</categoryId>
+<price>59000</price>
+<currencyId>RUR</currencyId>
+<picture>https://hot.tw1.su/ic.png</picture>
+<description>
+Практический курс по применению искусственного интеллекта в работе карьерного эксперта.
+</description>
+<param name="Продолжительность" unit="месяц">1</param>
+<param name="Формат обучения">С преподавателем</param>
+<param name="Есть вебинары">true</param>
+<param name="Есть домашние работы">true</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть сообщество">true</param>
+<param name="Сложность">Для практикующих специалистов</param>
+<param name="Тип обучения">Курс</param>
+<param name="Результат обучения">Сертификат</param>
+<param name="Часы в неделю" unit="час">4</param>
+</offer>
+</offers>
+</shop>
 </yml_catalog>
