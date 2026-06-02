@@ -13,61 +13,78 @@
 
   <sets>
     <set id="s1">
-      <name>Курс по искусственному интеллекту</name>
+      <name>Искусственный интеллект в работе карьерного эксперта</name>
       <url>https://icareer.ru/kkinai</url>
     </set>
   </sets>
 
   <offers>
-    <offer id="kkinai">
-      <name>Искусственный интеллект в работе карьерного эксперта</name>
+
+    <!-- ТАРИФ СТАНДАРТ -->
+    <offer id="kkinai-standard">
+      <name>Искусственный интеллект в работе карьерного эксперта — Стандарт</name>
       <url>https://icareer.ru/kkinai</url>
 
       <categoryId>20001</categoryId>
       <set-ids>s1</set-ids>
 
-      <price>59000</price>
+      <price>50150</price>
       <currencyId>RUB</currencyId>
 
-      <param name="Продолжительность" unit="месяц">1</param>
+      <param name="План">Стандарт</param>
 
-      <param name="План" order="1" unit="Модуль 1">Введение в AI и нейросети</param>
-      <param name="План" order="2" unit="Модуль 2">Анализ резюме и вакансий</param>
-      <param name="План" order="3" unit="Модуль 3">Автоматизация карьерных консультаций</param>
-      <param name="План" order="4" unit="Модуль 4">Создание карьерных стратегий с AI</param>
+      <param name="Продолжительность" unit="месяц">1</param>
+      <param name="Часы в неделю">4</param>
 
       <param name="Формат обучения">Онлайн</param>
       <param name="Есть вебинары">true</param>
       <param name="Есть домашние работы">true</param>
       <param name="Есть видеоуроки">true</param>
-      <param name="Есть текстовые уроки">true</param>
       <param name="Есть сообщество">true</param>
 
-      <param name="Сложность">Для специалистов</param>
-      <param name="Тип обучения">Курс</param>
-
       <param name="Результат обучения">Сертификат</param>
-      <param name="Часы в неделю">4</param>
 
       <picture>https://hot.tw1.su/ic.png</picture>
 
       <description>
 Практический онлайн-курс по применению искусственного интеллекта в работе карьерного эксперта.
-
-Вы научитесь:
-— использовать нейросети в работе
-— автоматизировать консультации
-— ускорять анализ клиентов
-— повышать эффективность работы
-
-Формат: онлайн с преподавателем  
-Длительность: 1 месяц  
-Нагрузка: 4 часа в неделю  
-
-Результат: практические навыки + сертификат
+Тариф Стандарт.
       </description>
-
     </offer>
+
+
+    <!-- ТАРИФ ПРО -->
+    <offer id="kkinai-pro">
+      <name>Искусственный интеллект в работе карьерного эксперта — ПРО</name>
+      <url>https://icareer.ru/kkinai</url>
+
+      <categoryId>20001</categoryId>
+      <set-ids>s1</set-ids>
+
+      <price>61200</price>
+      <currencyId>RUB</currencyId>
+
+      <param name="План">ПРО</param>
+
+      <param name="Продолжительность" unit="месяц">1</param>
+      <param name="Часы в неделю">4</param>
+
+      <param name="Формат обучения">Онлайн</param>
+      <param name="Есть вебинары">true</param>
+      <param name="Есть домашние работы">true</param>
+      <param name="Есть видеоуроки">true</param>
+      <param name="Есть сообщество">true</param>
+
+      <param name="Результат обучения">Сертификат</param>
+
+      <picture>https://hot.tw1.su/ic.png</picture>
+
+      <description>
+Практический онлайн-курс по применению искусственного интеллекта в работе карьерного эксперта.
+Тариф ПРО (расширенные возможности).
+      </description>
+    </offer>
+
   </offers>
 
 </shop>
