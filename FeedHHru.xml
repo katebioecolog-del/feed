@@ -23,7 +23,7 @@
 <discount>20</discount>
 <param name="Ежемесячный платеж">10800</param>
 <currencyId>RUB</currencyId>
-<param name="Промокод">HH10</param>
+<param name="Промокод">HH5</param>
 <param name="Скидка по промокоду в процентах">5</param>
 <param name="Ссылка на курс">https://icareer.ru/profteenagers/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=pob31&amp;utm_content=proforientacia&amp;utm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
@@ -41,7 +41,7 @@
 <discount></discount>
 <param name="Ежемесячный платеж">9600</param>
 <currencyId>RUB</currencyId>
-<param name="Промокод">HH10</param>
+<param name="Промокод">HH5</param>
 <param name="Скидка по промокоду в процентах">5</param>
 <param name="Ссылка на курс">https://icareer.ru/adultproforientacia/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=pov23&amp;utm_content=proforientacia_adult&amp;utm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
@@ -59,7 +59,7 @@
 <discount>15</discount>
 <param name="Ежемесячный платеж">12800</param>
 <currencyId>RUB</currencyId>
-<param name="Промокод">HH10</param>
+<param name="Промокод">HH5</param>
 <param name="Скидка по промокоду в процентах">5</param>
 <param name="Ссылка на курс">https://icareer.ru/cources/career_coaching/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=kch24&amp;utm_content=career_coaching&amp;utm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
@@ -77,7 +77,7 @@
 <discount>15</discount>
 <param name="Ежемесячный платеж">15000</param>
 <currencyId>RUB</currencyId>
-<param name="Промокод">HH10</param>
+<param name="Промокод">HH5</param>
 <param name="Скидка по промокоду в процентах">5</param>
 <param name="Ссылка на курс">https://icareer.ru/careeradvisor/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=kk37&amp;utm_content=career-management-online&amp;utm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
@@ -95,7 +95,7 @@
 <discount></discount>
 <param name="Ежемесячный платеж">12000</param>
 <currencyId>RUB</currencyId>
-<param name="Промокод">HH10</param>
+<param name="Промокод">HH5</param>
 <param name="Скидка по промокоду в процентах">5</param>
 <param name="Ссылка на курс">https://icareer.ru/cources/employee-career-management/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=uks8&amp;utm_content=employee-career-management&amp;utm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
