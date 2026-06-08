@@ -115,7 +115,7 @@
 <currencyId>RUB</currencyId>
 <param name="Промокод">HH5</param>
 <param name="Скидка по промокоду в процентах">5</param>
-<param name="Ссылка на курс">https://icareer.ru/encore-career-45/?utm_source=careerru&utm_medium=cpc&utm_campaign=bis&utm_content=encore-career-45&utm_term=hh_cpa</param>
+<param name="Ссылка на курс">https://icareer.ru/encore-career-45/?utm_source=careerru&amputm_medium=cpc&amputm_campaign=bis&amputm_content=encore-career-45&amputm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
 <param name="Помощь с трудоустройством">Нет</param>
 </offer>
@@ -133,7 +133,7 @@
 <currencyId>RUB</currencyId>
 <param name="Промокод">HH5</param>
 <param name="Скидка по промокоду в процентах">5</param>
-<param name="Ссылка на курс">https://icareer.ru/findingajobwithai/?utm_source=careerru&utm_medium=cpc&utm_campaign=prai&utm_content=findingajobwithai&utm_term=hh_cpa</param>
+<param name="Ссылка на курс">https://icareer.ru/findingajobwithai/?utm_source=careerru&amputm_medium=cpc&amptm_campaign=prai&amptm_content=findingajobwithai&amptm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
 <param name="Помощь с трудоустройством">Нет</param>
 </offer>
@@ -151,7 +151,7 @@
 <currencyId>RUB</currencyId>
 <param name="Промокод">HH5</param>
 <param name="Скидка по промокоду в процентах">5</param>
-<param name="Ссылка на курс">https://icareer.ru/igropractic/?utm_source=careerru&utm_medium=cpc&utm_campaign=ipp&utm_content=igropractic&utm_term=hh_cpa</param>
+<param name="Ссылка на курс">https://icareer.ru/igropractic/?utm_source=careerru&amputm_medium=cpc&amputm_campaign=ipp&amputm_content=igropractic&amputm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
 <param name="Помощь с трудоустройством">Нет</param>
 </offer>
@@ -169,7 +169,7 @@
 <currencyId>RUB</currencyId>
 <param name="Промокод">HH5</param>
 <param name="Скидка по промокоду в процентах">5</param>
-<param name="Ссылка на курс">https://icareer.ru/kkinai/?utm_source=careerru&utm_medium=cpc&utm_campaign=aiks&utm_content=kkinai&utm_term=hh_cpa</param>
+<param name="Ссылка на курс">https://icareer.ru/kkinai/?utm_source=careerru&amputm_medium=cpc&amputm_campaign=aiks&amputm_content=kkinai&amputm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
 <param name="Помощь с трудоустройством">Нет</param>
 </offer>
@@ -187,7 +187,7 @@
 <currencyId>RUB</currencyId>
 <param name="Промокод">HH5</param>
 <param name="Скидка по промокоду в процентах">5</param>
-<param name="Ссылка на курс">https://icareer.ru/preparing-for-the-interview/?utm_source=careerru&utm_medium=cpc&utm_campaign=pki&utm_content=preparing-for-the-interview&utm_term=hh_cpa</param>
+<param name="Ссылка на курс">https://icareer.ru/preparing-for-the-interview/?utm_source=careerru&amputm_medium=cpc&amputm_campaign=pki&amputm_content=preparing-for-the-interview&amputm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
 <param name="Помощь с трудоустройством">Нет</param>
 </offer> 
@@ -205,7 +205,7 @@
 <currencyId>RUB</currencyId>
 <param name="Промокод">HH5</param>
 <param name="Скидка по промокоду в процентах">5</param>
-<param name="Ссылка на курс">https://icareer.ru/top-management/?utm_source=careerru&utm_medium=cpc&utm_campaign=tm&utm_content=top-management&utm_term=hh_cpa</param>
+<param name="Ссылка на курс">https://icareer.ru/top-management/?utm_source=careerru&amputm_medium=cpc&amputm_campaign=tm&utm_content=top-management&amputm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
 <param name="Помощь с трудоустройством">Нет</param>
 </offer>
@@ -223,7 +223,7 @@
 <currencyId>RUB</currencyId>
 <param name="Промокод">HH5</param>
 <param name="Скидка по промокоду в процентах">5</param>
-<param name="Ссылка на курс">https://icareer.ru/itconsultant/?utm_source=careerru&utm_medium=cpc&utm_campaign=kkit&utm_content=itconsultant&utm_term=hh_cpa</param>
+<param name="Ссылка на курс">https://icareer.ru/itconsultant/?utm_source=careerru&amputm_medium=cpc&amputm_campaign=kkit&amputm_content=itconsultant&amputm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
 <param name="Помощь с трудоустройством">Нет</param>
 </offer>
@@ -239,7 +239,7 @@
 <discount> </discount>
 <param name="Ежемесячный платеж"> </param>
 <currencyId>RUB</currencyId>
-<param name="Ссылка на курс">https://icareer.ru/freepov/?utm_source=careerru&utm_medium=cpc&utm_campaign=vpov&utm_content=freepov&utm_term=hh_cpa</param>
+<param name="Ссылка на курс">https://icareer.ru/freepov/?utm_source=careerru&amptm_medium=cpc&amputm_campaign=vpov&amputm_content=freepov&amputm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
 <param name="Помощь с трудоустройством">Нет</param>
 </offer>
@@ -254,7 +254,7 @@
 <discount> </discount>
 <param name="Ежемесячный платеж"> </param>
 <currencyId>RUB</currencyId>
-<param name="Ссылка на курс">https://icareer.ru/kkfree/?utm_source=careerru&utm_medium=cpc&utm_campaign=vkk&utm_content=kkfree&utm_term=hh_cpa</param>
+<param name="Ссылка на курс">https://icareer.ru/kkfree/?utm_source=careerru&amputm_medium=cpc&amputm_campaign=vkk&amputm_content=kkfree&amputm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
 <param name="Помощь с трудоустройством">Нет</param>
 </offer>
@@ -269,7 +269,7 @@
 <discount> </discount>
 <param name="Ежемесячный платеж"> </param>
 <currencyId>RUB</currencyId>
-<param name="Ссылка на курс">https://icareer.ru/pobfree/?utm_source=careerru&utm_medium=cpc&utm_campaign=vpob&utm_content=pobfree&utm_term=hh_cpa</param>
+<param name="Ссылка на курс">https://icareer.ru/pobfree/?utm_source=careerru&amputm_medium=cpc&utm_campaign=vpob&amputm_content=pobfree&amputm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
 <param name="Помощь с трудоустройством">Нет</param>
 </offer>
@@ -284,7 +284,7 @@
 <discount> </discount>
 <param name="Ежемесячный платеж"> </param>
 <currencyId>RUB</currencyId>
-<param name="Ссылка на курс">https://icareer.ru/coachfree/?utm_source=careerru&utm_medium=cpc&utm_campaign=vkkch&utm_content=coachfree&utm_term=hh_cpa</param>
+<param name="Ссылка на курс">https://icareer.ru/coachfree/?utm_source=careerru&amputm_medium=cpc&amputm_campaign=vkkch&amputm_content=coachfree&amputm_term=hh_cpa</param>
 <param name="Выдаётся сертификат">Да</param>
 <param name="Помощь с трудоустройством">Нет</param>
 </offer>
