@@ -828,6 +828,47 @@
 
 		    	<param name="Помощь с трудоустройством">Нет</param>
 	    	</offer>
+<offer id="17" available="true">
+    <name>Карьерный коучинг: почему это самая востребованная и стабильная ниша в коучинге</name>
+
+    <url>https://icareer.ru/careercoach_pre?utm_source=habr&utm_medium=cpl&utm_campaign=promocch</url>
+
+    <price>0</price>
+
+    <oldprice>0</oldprice>
+
+    <currencyId>RUB</currencyId>
+
+    <specialization>HR и рекрутинг</specialization>
+
+    <param name="Дата начала">2026-06-23, 2026-06-25</param>
+
+    <duration unit="hour">2</duration>
+
+    <skills>
+        <skill id="1">Карьерное консультирование</skill>
+        <skill id="2">Коучинг</skill>
+        <skill id="3">Развитие карьеры</skill>
+        <skill id="4">Карьерная стратегия</skill>
+        <skill id="5">Профессиональное развитие</skill>
+        <skill id="6">Наставничество</skill>
+        <skill id="7">Личностный рост</skill>
+    </skills>
+
+    <description>Бесплатный интенсив «Карьерный коучинг: почему это самая востребованная и стабильная ниша в коучинге» в рамках программы «Карьерный коуч ICF». Участники узнают, почему карьерный коучинг остается одной из самых востребованных специализаций в коучинге, какие задачи помогают решать карьерные коучи и как начать развиваться в этой профессии. Вебинар включает практические материалы и чек-лист для участников. После проведения интенсива будет доступна запись.</description>
+
+    <param name="Оплата в рассрочку" unit="месяц">нет</param>
+
+    <param name="Формат занятий">online</param>
+
+    <param name="Требуемая квалификация">Intern</param>
+
+    <param name="Получаемая квалификация">Intern</param>
+
+    <param name="Выдаётся сертификат">Нет</param>
+
+    <param name="Помощь с трудоустройством">Нет</param>
+</offer>
     	</offers>
     </shop>
 </yml_catalog>
