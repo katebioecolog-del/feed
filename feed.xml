@@ -221,6 +221,169 @@
 
 		    	<param name="Помощь с трудоустройством">Нет</param>
 	    	</offer>
+			<offer id="17" available="true">
+    <name>Карьерный коучинг: почему это самая востребованная и стабильная ниша в коучинге</name>
+    <url>https://icareer.ru/careercoach_pre?utm_source=habr&utm_medium=cpl&utm_campaign=promocch</url>
+
+    <price>0</price>
+
+    <oldprice>0</oldprice>
+
+    <currencyId>RUB</currencyId>
+
+    <specialization>HR и рекрутинг</specialization>
+
+    <param name="Дата начала">23.06.2026</param>
+
+    <duration unit="day">1</duration>
+
+    <skills>
+        <skill id="1">Карьерное консультирование</skill>
+        <skill id="2">Коучинг</skill>
+        <skill id="3">Развитие карьеры</skill>
+        <skill id="4">Карьерная стратегия</skill>
+        <skill id="5">ICF</skill>
+        <skill id="6">Личностный рост</skill>
+        <skill id="7">Наставничество</skill>
+    </skills>
+
+    <description>Бесплатный трёхдневный интенсив в рамках курса «Карьерный коуч ICF». Участники узнают, почему карьерный коучинг является одной из самых востребованных и стабильных ниш в коучинге, познакомятся с особенностями профессии карьерного коуча и получат практический чек-лист. После проведения будет доступна запись.</description>
+
+    <param name="Оплата в рассрочку" unit="месяц">нет</param>
+
+    <param name="Формат занятий">online</param>
+
+    <param name="Требуемая квалификация">Intern</param>
+
+    <param name="Получаемая квалификация">Intern</param>
+
+    <param name="Выдаётся сертификат">Нет</param>
+
+    <param name="Помощь с трудоустройством">Нет</param>
+</offer>
+<offer id="18" available="true">
+    <name>Летняя подписка Школы карьерного менеджмента</name>
+    <url>https://icareer.ru/summersubscription?utm_source=habr&utm_medium=cpl&utm_campaign=sumsub</url>
+
+    <price>28900</price>
+
+    <oldprice>235000</oldprice>
+
+    <currencyId>RUB</currencyId>
+
+    <specialization>HR и рекрутинг</specialization>
+
+    <param name="Дата начала">После покупки</param>
+
+    <duration unit="month">3</duration>
+
+    <skills>
+        <skill id="1">Карьерное консультирование</skill>
+        <skill id="2">Коучинг</skill>
+        <skill id="3">Профориентация</skill>
+        <skill id="4">Развитие карьеры</skill>
+        <skill id="5">HR-практики</skill>
+        <skill id="6">Работа с клиентами</skill>
+        <skill id="7">Личностный рост</skill>
+        <skill id="8">Наставничество</skill>
+    </skills>
+
+    <description>Летняя подписка Школы карьерного менеджмента предоставляет доступ к курсам, мини-курсам, спринтам, вебинарам, шаблонам и практическим материалам для карьерных консультантов, коучей, профориентаторов и HR-специалистов. Общая стоимость материалов превышает 235 000 рублей.</description>
+
+    <param name="Оплата в рассрочку" unit="месяц">нет</param>
+
+    <param name="Формат занятий">online</param>
+
+    <param name="Требуемая квалификация">Intern</param>
+
+    <param name="Получаемая квалификация">Middle</param>
+
+    <param name="Выдаётся сертификат">Нет</param>
+
+    <param name="Помощь с трудоустройством">Нет</param>
+</offer>
+			<offer id="17" available="true">
+    <name>Карьерный коучинг: почему это самая востребованная и стабильная ниша в коучинге</name>
+    <url>https://icareer.ru/careercoach_pre?utm_source=habr&utm_medium=cpl&utm_campaign=promocch</url>
+
+    <price>0</price>
+
+    <oldprice>0</oldprice>
+
+    <currencyId>RUB</currencyId>
+
+    <specialization>HR и рекрутинг</specialization>
+
+    <param name="Дата начала">23.06.2026</param>
+
+    <duration unit="day">1</duration>
+
+    <skills>
+        <skill id="1">Карьерное консультирование</skill>
+        <skill id="2">Коучинг</skill>
+        <skill id="3">Развитие карьеры</skill>
+        <skill id="4">Карьерная стратегия</skill>
+        <skill id="5">ICF</skill>
+        <skill id="6">Личностный рост</skill>
+        <skill id="7">Наставничество</skill>
+    </skills>
+
+    <description>Бесплатный трёхдневный интенсив в рамках курса «Карьерный коуч ICF». Участники узнают, почему карьерный коучинг является одной из самых востребованных и стабильных ниш в коучинге, познакомятся с особенностями профессии карьерного коуча и получат практический чек-лист. После проведения будет доступна запись.</description>
+
+    <param name="Оплата в рассрочку" unit="месяц">нет</param>
+
+    <param name="Формат занятий">online</param>
+
+    <param name="Требуемая квалификация">Intern</param>
+
+    <param name="Получаемая квалификация">Intern</param>
+
+    <param name="Выдаётся сертификат">Нет</param>
+
+    <param name="Помощь с трудоустройством">Нет</param>
+</offer>
+
+<offer id="18" available="true">
+    <name>Летняя подписка Школы карьерного менеджмента</name>
+    <url>https://icareer.ru/summersubscription?utm_source=habr&utm_medium=cpl&utm_campaign=sumsub</url>
+
+    <price>28900</price>
+
+    <oldprice>235000</oldprice>
+
+    <currencyId>RUB</currencyId>
+
+    <specialization>HR и рекрутинг</specialization>
+
+    <param name="Дата начала">После покупки</param>
+
+    <duration unit="month">3</duration>
+
+    <skills>
+        <skill id="1">Карьерное консультирование</skill>
+        <skill id="2">Коучинг</skill>
+        <skill id="3">Профориентация</skill>
+        <skill id="4">Развитие карьеры</skill>
+        <skill id="5">HR-практики</skill>
+        <skill id="6">Работа с клиентами</skill>
+        <skill id="7">Личностный рост</skill>
+        <skill id="8">Наставничество</skill>
+    </skills>
+
+    <description>Летняя подписка Школы карьерного менеджмента предоставляет доступ к курсам, мини-курсам, спринтам, вебинарам, шаблонам и практическим материалам для карьерных консультантов, коучей, профориентаторов и HR-специалистов. Общая стоимость материалов превышает 235 000 рублей.</description>
+
+    <param name="Оплата в рассрочку" unit="месяц">нет</param>
+
+    <param name="Формат занятий">online</param>
+
+    <param name="Требуемая квалификация">Intern</param>
+
+    <param name="Получаемая квалификация">Middle</param>
+
+    <param name="Выдаётся сертификат">Нет</param>
+
+    <param name="Помощь с трудоустройством">Нет</param>
+</offer>
     	</offers>
     </shop>
 </yml_catalog>
