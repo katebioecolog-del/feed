@@ -312,7 +312,7 @@
 <param name="Длительность курса">6 месяцев</param>
 <oldprice>235000</oldprice>
 <price>28900</price>
-<discount>88</discount>
+<discount>90</discount>
 <param name="Ежемесячный платеж">2408</param>
 <currencyId>RUB</currencyId>
 <param name="Промокод">HH5</param>
