@@ -12,7 +12,7 @@
 	    <offers>
 	    	<offer id="13" available="true">
 			    <name>Введение в Профориентацию и карьерное самоопределение взрослых</name>
-			    <url>https://icareer.ru/freepov?utm_source=habr&utm_medium=cpl&utm_campaign=vpov</url>
+			    <url>https://icareer.ru/freepov?utm_source=habr&amp;utm_medium=cpl&amp;utm_campaign=vpov</url>
 
 
 			    <price>0</price>
@@ -64,7 +64,7 @@
 	    	</offer>
 	    	<offer id="14" available="true">
 			    <name>Введение в профессию Карьерный консультант</name>
-			    <url>https://icareer.ru/kkfree?utm_source=habr&utm_medium=cpl&utm_campaign=vkk</url>
+			    <url>https://icareer.ru/kkfree?utm_source=habr&amp;utm_medium=cpl&amp;utm_campaign=vkk</url>
 
 
 			    <price>0</price>
@@ -117,7 +117,7 @@
 	    	</offer>
 	    	<offer id="15" available="true">
 			    <name>Введение в профессию Профориентатор будущего</name>
-			    <url>https://icareer.ru/pobfree?utm_source=habr&utm_medium=cpl&utm_campaign=vpob</url>
+			    <url>https://icareer.ru/pobfree?utm_source=habr&amp;utm_medium=cpl&amp;utm_campaign=vpob</url>
 
 
 			    <price>0</price>
@@ -167,7 +167,7 @@
 	    	</offer>
 	    	<offer id="16" available="true">
 			    <name>Введение в профессию Карьерный коуч</name>
-			    <url>https://icareer.ru/coachfree?utm_source=habr&utm_medium=cpl&utm_campaign=vkkch</url>
+			    <url>https://icareer.ru/coachfree?utm_source=habr&amp;utm_medium=cpl&amp;utm_campaign=vkkch</url>
 
 
 			    <price>0</price>
@@ -224,7 +224,7 @@
 	    	</offer>
 			<offer id="17" available="true">
     <name>Карьерный коучинг: почему это самая востребованная и стабильная ниша в коучинге</name>
-    <url>https://icareer.ru/careercoach_pre?utm_source=habr&utm_medium=cpl&utm_campaign=promocch</url>
+    <url>https://icareer.ru/careercoach_pre?utm_source=habr&amp;utm_medium=cpl&amp;utm_campaign=promocch</url>
 
     <price>0</price>
 
