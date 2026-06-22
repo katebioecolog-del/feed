@@ -288,6 +288,39 @@
 <param name="Выдаётся сертификат">Да</param>
 <param name="Помощь с трудоустройством">Нет</param>
 </offer>
+  <offer id="17" available="true">
+<name>Карьерный коучинг: почему это самая востребованная и стабильная ниша в коучинге</name>
+<description>Бесплатный интенсив в рамках курса «Карьерный коуч ICF». Участники узнают, почему карьерный коучинг является одной из самых востребованных и стабильных ниш в коучинге, а также получат практический чек-лист и доступ к записи.</description>
+<param name="Уровень курса">С Нуля</param>
+<param name="Формат курса">ONLINE</param>
+<param name="Длительность курса">2 часа</param>
+<oldprice></oldprice>
+<price>0</price>
+<discount></discount>
+<param name="Ежемесячный платеж"></param>
+<currencyId>RUB</currencyId>
+<param name="Ссылка на курс">https://icareer.ru/careercoach_pre/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=promocch&amp;utm_term=hh_cpa</param>
+<param name="Выдаётся сертификат">Нет</param>
+<param name="Помощь с трудоустройством">Нет</param>
+</offer>
+
+<offer id="18" available="true">
+<name>Летняя подписка Школы карьерного менеджмента</name>
+<description>Доступ к курсам, мини-курсам, вебинарам, спринтам, шаблонам и практическим материалам для карьерных консультантов, коучей, профориентаторов и HR-специалистов. Общая стоимость материалов превышает 235 000 рублей.</description>
+<param name="Уровень курса">С Нуля</param>
+<param name="Формат курса">ONLINE</param>
+<param name="Длительность курса">6 месяцев</param>
+<oldprice>235000</oldprice>
+<price>28900</price>
+<discount>88</discount>
+<param name="Ежемесячный платеж">2408</param>
+<currencyId>RUB</currencyId>
+<param name="Промокод">HH5</param>
+<param name="Скидка по промокоду в процентах">5</param>
+<param name="Ссылка на курс">https://icareer.ru/summersubscription/?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=sumsub&amp;utm_term=hh_cpa</param>
+<param name="Выдаётся сертификат">Да</param>
+<param name="Помощь с трудоустройством">Нет</param>
+</offer>
 
 </offers>
 </shop>
