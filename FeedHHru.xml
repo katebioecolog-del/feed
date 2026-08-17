@@ -339,34 +339,37 @@
     <param name="Помощь с трудоустройством">Нет</param>
 </offer>
 
-  <offer id="20" available="true">
+  <offer id="20" available="false">
     <name>Профориентатор взрослых: эксперт, который помогает взрослым в любом возрасте найти себя</name>
-
     <description>Бесплатный трёхдневный онлайн-интенсив «Профориентатор взрослых». Участники узнают, почему взрослые обращаются за профориентацией, чем профориентация взрослых отличается от карьерного консультирования, с какими клиентами работает профориентатор и какие возможности для профессионального роста и заработка открывает эта специализация. В программе три вебинара 12, 13 и 14 августа в 13:00. Каждый участник получает чек-лист за регистрацию.</description>
-
     <param name="Уровень курса">С Нуля</param>
-
     <param name="Формат курса">ONLINE</param>
-
     <param name="Длительность курса">2 часа</param>
-
-    <oldprice>0</oldprice>
-
+    <oldprice></oldprice>
     <price>0</price>
-
     <discount></discount>
-
     <param name="Ежемесячный платеж"></param>
-
     <currencyId>RUB</currencyId>
-
     <param name="Ссылка на курс">https://icareer.ru/proforientacia_adult_promo?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=promopov24&amp;utm_content=proforientacia_adult&amp;utm_term=hh_cpa</param>
-
     <param name="Выдаётся сертификат">Нет</param>
-
     <param name="Помощь с трудоустройством">Нет</param>
 </offer>
 
+  <offer id="21" available="true">
+    <name>Профориентатор подростков: профессия, которая помогает выбирать будущее</name>
+    <description>Бесплатный онлайн-вебинар «Профориентатор подростков: профессия, которая помогает выбирать будущее». Вебинар пройдёт 20, 21 и 22 августа 2026 года. Участники познакомятся с профессией профориентатора подростков и узнают, как помогать подросткам выбирать направление обучения и будущую профессию.</description>
+    <param name="Уровень курса">С Нуля</param>
+    <param name="Формат курса">ONLINE</param>
+    <param name="Длительность курса">6 часов</param>
+    <oldprice></oldprice>
+    <price>0</price>
+    <discount></discount>
+    <param name="Ежемесячный платеж"></param>
+    <currencyId>RUB</currencyId>
+    <param name="Ссылка на курс">https://icareer.ru/presentation_proforientator?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=promopob33&amp;utm_content=presentation_proforientator&amp;utm_term=hh_cpa</param>
+    <param name="Выдаётся сертификат">Нет</param>
+    <param name="Помощь с трудоустройством">Нет</param>
+</offer>
   
 </offers>
 </shop>
