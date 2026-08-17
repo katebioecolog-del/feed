@@ -360,7 +360,7 @@
 
     <currencyId>RUB</currencyId>
 
-    <param name="Ссылка на курс">https://icareer.ru/proforientacia_adult_promo?utm_source=careerru&utm_medium=cpc&utm_campaign=promopov24&utm_content=proforientacia_adult&utm_term=hh_cpa</param>
+    <param name="Ссылка на курс">https://icareer.ru/proforientacia_adult_promo?utm_source=careerru&amp;utm_medium=cpc&amp;utm_campaign=promopov24&amp;utm_content=proforientacia_adult&amp;utm_term=hh_cpa</param>
 
     <param name="Выдаётся сертификат">Нет</param>
 
